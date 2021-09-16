@@ -1,0 +1,504 @@
+,SALE TYPE,SOLD DATE,PROPERTY TYPE,ADDRESS,CITY,STATE OR PROVINCE,ZIP OR POSTAL CODE,PRICE,BEDS,BATHS,LOCATION,SQUARE FEET,LOT SIZE,YEAR BUILT,DAYS ON MARKET,$/SQUARE FEET,HOA/MONTH,STATUS,NEXT OPEN HOUSE END TIME,SOURCE,MLS#,FAVORITE,INTERESTED,LATITUDE,LONGITUDE
+0,MLS Listing,2025,Multi-Family (2-4 Unit),239 WINDSOR St,Kearny,NJ,7032,540000.0,6.0,2.0,Kearny,,,,14.0,,,Active,,HCMLS,210017537,Y,Y,40.7661712,-74.1493998
+1,MLS Listing,2025,Multi-Family (2-4 Unit),70 Tillinghast St,Newark City,NJ,07108-1422,545000.0,2.0,4.5,Newark City,19998.0,2613.0,2021.0,1.0,27.0,,Pre On-Market,,GSMLS,3732308,Y,Y,40.7185965,-74.2096675
+2,MLS Listing,2025,Single Family Residential,132-15 133rd Ave,S. Ozone Park,NY,11420,679000.0,4.0,1.5,S. Ozone Park,1335.0,6000.0,1930.0,2.0,509.0,,Active,August-7-2021 02:00 PM,OneKey,3334795,Y,Y,40.6693447,-73.8059959
+3,MLS Listing,2025,Single Family Residential,114-64 222nd St,Cambria Heights,NY,11411,599000.0,4.0,2.0,Cambria Heights,,3500.0,1950.0,4.0,,,Active,,OneKey,3334610,Y,Y,40.69991,-73.73595
+4,MLS Listing,2025,Multi-Family (2-4 Unit),801 Logan St,E. New York,NY,11208,799000.0,5.0,3.0,E. New York,2500.0,1600.0,1910.0,1.0,320.0,,Active,,OneKey,3335614,Y,Y,40.6666522,-73.8726829
+5,MLS Listing,2025,Multi-Family (2-4 Unit),39 W 29TH St,Bayonne,NJ,7002,459000.0,6.0,2.0,Bayonne,,,,1.0,,,Active,,HCMLS,210018605,Y,Y,40.6694808,-74.1158408
+6,MLS Listing,2025,Multi-Family (2-4 Unit),145 WEGMAN Pkwy,JERSEY CITY,NJ,7735,499900.0,6.0,2.0,Jersey City (Greenville),,,,60.0,,,Active,,HCMLS,210013672,Y,Y,40.7048569,-74.083178
+7,MLS Listing,2025,Multi-Family (2-4 Unit),15 Webster St,North Arlington,NJ,7031,499000.0,4.0,2.0,North Arlington,,5001.0,,34.0,,,Active,,NJMLS,21026560,Y,Y,40.7973279,-74.1211285
+8,MLS Listing,2025,Single Family Residential,362 Bradley Ave,Staten Island,NY,10314,629900.0,4.0,3.0,Manor Heights,1816.0,2420.0,1988.0,1.0,347.0,,Active,,SIBORMLS,1148272,Y,Y,40.602094,-74.131649
+9,MLS Listing,2025,Single Family Residential,1454 75TH St,North Bergen,NJ,7047,580000.0,6.0,2.0,North Bergen,,,,1.0,,,Active,,HCMLS,210018504,Y,Y,40.8031528,-74.0164937
+10,MLS Listing,2025,Single Family Residential,1143 Sewall Ave,Asbury Park,NJ,7712,249999.0,4.0,1.0,Asbury Heights,1242.0,1306.0,1920.0,2.0,201.0,,Active,,MOMLS,22125419,Y,Y,40.2212473,-74.0189725
+11,MLS Listing,2025,Multi-Family (2-4 Unit),14 Shaw Ave,Newark City,NJ,07112-1526,549900.0,6.0,5.0,Newark City,3500.0,6969.0,2021.0,2.0,157.0,,Active,,GSMLS,3731550,Y,Y,40.7136784,-74.2170575
+12,MLS Listing,2025,Multi-Family (2-4 Unit),121 Myrtle Ave,Jersey City,NJ,07305-3509,399000.0,5.0,2.0,Jersey City,,2613.0,,1.0,,,Active,,GSMLS,3731866,Y,Y,40.707597,-74.08004
+13,MLS Listing,2025,Multi-Family (2-4 Unit),65 Seymour Ave,Newark City,NJ,07108-1516,385000.0,7.0,3.0,Newark City,29997.0,3049.0,1902.0,1.0,13.0,,Active,,GSMLS,3731827,Y,Y,40.7232192,-74.2019511
+14,MLS Listing,2025,Single Family Residential,18 SUBURBIA Ct,JERSEY CITY,NJ,7305,525000.0,3.0,2.0,Jersey City (West Bergen),,,,1.0,,,Active,August-7-2021 04:00 PM,HCMLS,210018462,Y,Y,40.7017318,-74.1008945
+15,MLS Listing,2025,Single Family Residential,701 Warren St,Harrison,NJ,7029,399900.0,4.0,2.0,Harrison,,2500.0,,1.0,,,Active,,NJMLS,21031561,Y,Y,40.7452202,-74.1497897
+16,MLS Listing,2025,Multi-Family (2-4 Unit),1302 85TH St,North Bergen,NJ,7047,542500.0,5.0,3.0,North Bergen,,,,1.0,,,Active,August-8-2021 03:00 PM,HCMLS,210018460,Y,Y,40.8085236,-74.0103767
+17,MLS Listing,2025,Multi-Family (2-4 Unit),12-14 HARMON St,JERSEY CITY,NJ,7306,620000.0,5.0,3.0,Jersey City (Bergen-Lafayette),,,,5.0,,,Active,,HCMLS,210018246,Y,Y,40.7148402,-74.0677348
+18,MLS Listing,2025,Single Family Residential,4 STEGMAN Ter,JERSEY CITY,NJ,7305,380000.0,3.0,2.0,Jersey City (Downtown),,,,1.0,,,Active,,HCMLS,210018422,Y,Y,40.7084586,-74.0917976
+19,MLS Listing,2025,Single Family Residential,415 Lafayette St,Newark,NJ,7105,335000.0,3.0,2.5,Newark,,1011.0,,2.0,,,Active,August-7-2021 03:00 PM,NJMLS,21031409,Y,Y,40.7260709,-74.1542709
+20,MLS Listing,2025,Single Family Residential,823 E 228th St,BRONX,NY,10466,505000.0,4.0,1.5,BRONX,1320.0,2631.0,1910.0,63.0,383.0,,Active,,OneKey,H6121022,Y,Y,40.888909,-73.855506
+21,MLS Listing,2025,Multi-Family (2-4 Unit),166 N 12th St,Newark,NJ,7107,578000.0,9.0,3.0,Newark,,3001.0,,26.0,,,Active,,NJMLS,21027989,Y,Y,40.7621346,-74.1918617
+22,MLS Listing,2025,Multi-Family (2-4 Unit),77 Linden St,Yonkers,NY,10701,499990.0,5.0,2.0,Old 7th Ward,2322.0,3624.0,1910.0,2.0,215.0,,Active,,OneKey,H6134145,Y,Y,40.9332816,-73.8921883
+23,MLS Listing,2025,Multi-Family (2-4 Unit),718 10TH St,Union City,NJ,7087,699000.0,5.0,3.0,Union City,,,,2.0,,,Active,,HCMLS,210018357,Y,Y,40.7598237,-74.0418579
+24,MLS Listing,2025,Multi-Family (2-4 Unit),806 CENTRAL Ave,Union City,NJ,7087,459000.0,3.0,3.0,Union City,,,,2.0,,,Active,,HCMLS,210018337,Y,Y,40.7584209,-74.0414811
+25,MLS Listing,2025,Multi-Family (2-4 Unit),12 POLLOCK Ave,JERSEY CITY,NJ,7305,625000.0,8.0,3.0,Jersey City (West Bergen),,,,2.0,,,Active,,HCMLS,210018338,Y,Y,40.7141456,-74.0896179
+27,MLS Listing,2025,Single Family Residential,197 DICKERSON St,Newark City,NJ,07107-2838,369900.0,4.0,2.5,Newark City,,,,3.0,,,Active,,GSMLS,3731441,Y,Y,40.749921,-74.192637
+28,MLS Listing,2025,Multi-Family (2-4 Unit),419 74TH St,North Bergen,NJ,07047-000,655000.0,7.0,2.5,North Bergen,,,,3.0,,,Active,August-7-2021 03:00 PM,HCMLS,210018303,Y,Y,40.797908,-74.0081273
+29,MLS Listing,2025,Single Family Residential,358 BERGEN Ave,JERSEY CITY,NJ,7304,375000.0,5.0,2.5,Jersey City (West Bergen),,,,3.0,,,Active,,HCMLS,210018311,Y,Y,40.7141693,-74.0803307
+31,For-Sale-by-Owner Listing,2025,Multi-Family (2-4 Unit),588 66th St,West New York,NJ,7093,699999.0,5.0,2.0,West New York,,,,4.0,,,Active,,FSBO.com,525861,Y,Y,40.794877,-74.0157248
+33,MLS Listing,2025,Single Family Residential,907 73RD St,North Bergen,NJ,7047,649900.0,5.0,3.5,North Bergen,,,,5.0,,,Active,,HCMLS,210018198,Y,Y,40.799273,-74.013052
+34,MLS Listing,2025,Multi-Family (2-4 Unit),206-208 Brookside Ave,Irvington,NJ,7111,359900.0,4.0,3.0,Irvington,,2313.0,,5.0,,,Active,,NJMLS,21031070,Y,Y,40.7330177,-74.2217888
+36,MLS Listing,2025,Multi-Family (2-4 Unit),167 WILKINSON Ave,JERSEY CITY,NJ,7305,499000.0,5.0,3.0,Jersey City (Greenville),,,,72.0,,,Active,,HCMLS,210012549,Y,Y,40.7071952,-74.0820808
+37,MLS Listing,2025,Multi-Family (2-4 Unit),1022 E 81 St,Brooklyn,NY,11236,679900.0,6.0,3.5,Brooklyn,,2000.0,,8.0,,,Active,,BNYMLS,454239,Y,Y,40.633764,-73.910392
+38,MLS Listing,2025,Single Family Residential,1720 E 54th St,Brooklyn,NY,11234,649000.0,4.0,2.25,Brooklyn,1296.0,1800.0,,47.0,501.0,,Active,,BNYMLS,452144,Y,Y,40.6155665,-73.9228804
+39,MLS Listing,2025,Multi-Family (2-4 Unit),58-60 78 Ave,Glendale,NY,11385,550000.0,5.0,2.0,Glendale,2500.0,2500.0,1925.0,8.0,220.0,,Active,,OneKey,3333269,Y,Y,40.695765,-73.89655
+40,MLS Listing,2025,Multi-Family (2-4 Unit),1105 Winthrop St,Brownsville,NY,11212,400000.0,5.0,3.0,Brownsville,,3450.0,1920.0,124.0,,,Active,,OneKey,3299966,Y,Y,40.6621211,-73.923341
+41,MLS Listing,2025,Townhouse,115-15 202 St,Queens,NY,11412,575000.0,4.0,2.5,St. Albans,,4000.0,1945.0,26.0,,,Active,,REBNY,RLMX-015980031013,Y,Y,40.6980168,-73.7515421
+42,MLS Listing,2025,Single Family Residential,215-05 104th Ave,Queens Village,NY,11429,499000.0,4.0,2.0,Queens Village,1280.0,1280.0,1930.0,35.0,390.0,,Active,,OneKey,3325939,Y,Y,40.712232,-73.743483
+43,MLS Listing,2025,Single Family Residential,66 Sussex Rd,Elmont,NY,11003,415000.0,4.0,2.0,Elmont,,4000.0,1941.0,55.0,,,Active,,OneKey,3320441,Y,Y,40.7064687,-73.7213752
+44,MLS Listing,2025,Multi-Family (2-4 Unit),158 Mapes Ave,Newark,NJ,7112,475000.0,7.0,3.0,Newark,,3498.0,,5.0,,,Active,,NJMLS,21031098,Y,Y,40.7103196,-74.2097471
+45,MLS Listing,2025,Multi-Family (2-4 Unit),44 Wainwright St,Newark,NJ,7112,599000.0,7.0,4.5,Newark,,2500.0,,138.0,,,Active,,NJMLS,21009978,Y,Y,40.718451,-74.216666
+46,MLS Listing,2025,Multi-Family (2-4 Unit),113 S 7Th St #3,Newark City,NJ,07107-2047,486000.0,7.0,3.0,Newark City,2510.0,3049.0,1899.0,7.0,194.0,,Active,,GSMLS,3730723,Y,Y,40.7452241,-74.1954848
+47,MLS Listing,2025,Single Family Residential,34 Stone St,Newark,NJ,7104,429900.0,4.0,2.5,Newark,,3006.0,,8.0,,,Active,,NJMLS,21030556,Y,Y,40.7524845,-74.1748001
+48,MLS Listing,2025,Multi-Family (2-4 Unit),284 RANDOLPH Ave,JERSEY CITY,NJ,7304,599000.0,6.0,3.0,Jersey City (Bergen-Lafayette),,,,7.0,,,Active,,HCMLS,210017979,Y,Y,40.71278,-74.0692453
+49,MLS Listing,2025,Single Family Residential,99 Hudson St,Newark,NJ,7103,329000.0,8.0,2.0,Newark,,1755.0,,43.0,,,Active,,NJMLS,21025236,Y,Y,40.746475,-74.1849019
+50,MLS Listing,2025,Multi-Family (2-4 Unit),781 S 13th St,Newark,NJ,7108,415000.0,6.0,3.0,Newark,,2500.0,,8.0,,,Active,,NJMLS,21030532,Y,Y,40.7267186,-74.2090134
+51,MLS Listing,2025,Multi-Family (2-4 Unit),112 CLAREMONT Ave,JERSEY CITY,NJ,7305,530000.0,9.0,3.0,Jersey City (Greenville),,,,9.0,,,Active,August-7-2021 02:00 PM,HCMLS,210017868,Y,Y,40.7088018,-74.0782889
+52,MLS Listing,2025,Multi-Family (2-4 Unit),339 7th Ave,Newark,NJ,7107,400000.0,7.0,4.0,Newark,,2252.0,,9.0,,,Active,,NJMLS,21030444,Y,Y,40.7542516,-74.1876882
+53,MLS Listing,2025,Single Family Residential,11 1/2 Highland Ave,Kearny Town,NJ,07032-1922,275000.0,3.0,1.0,Kearny Town,,727016.0,1885.0,9.0,,,Active,,GSMLS,3730092,Y,Y,40.7535914,-74.1588552
+54,MLS Listing,2025,Multi-Family (2-4 Unit),,Newark City,NJ,07107-2228,400000.0,7.0,4.0,,,2178.0,1910.0,9.0,,,Active,,GSMLS,3730089,Y,Y,40.7663804,-74.1856472
+55,MLS Listing,2025,Multi-Family (2-4 Unit),9010 KENNEDY Blvd,North Bergen,NJ,7047,620000.0,7.0,4.0,North Bergen,,,,9.0,,,Active,,HCMLS,210017810,Y,Y,40.810201,-74.005435
+56,MLS Listing,2025,Single Family Residential,2703 Bainbridge Ave,BRONX,NY,10458,529000.0,6.0,2.0,BRONX,,2092.0,1915.0,188.0,,,Active,,OneKey,3284212,Y,Y,40.8658835,-73.8913155
+57,PAST SALE,May-20-2015,Single Family Residential,72 Gibson Pl,Yonkers,NY,10705,423500.0,4.0,3.0,Yonkers,1600.0,5719.0,1931.0,2268.0,265.0,,Sold,,HGMLS,4443425,Y,Y,40.9118125,-73.8875948
+58,MLS Listing,2025,Multi-Family (2-4 Unit),293 Hunterdon St,Newark,NJ,7103,450000.0,6.0,3.0,Newark,,3572.0,,9.0,,,Active,,NJMLS,21030397,Y,Y,40.7346194,-74.1941858
+59,MLS Listing,2025,Multi-Family (2-4 Unit),402 Morse Ave,Ridgefield,NJ,7657,549000.0,5.0,2.0,Ridgefield,,3999.0,,9.0,,,Active,,NJMLS,21030326,Y,Y,40.8286543,-74.0070829
+60,MLS Listing,2025,Multi-Family (2-4 Unit),908 TONNELLE Ave,North Bergen,NJ,7047,499000.0,5.0,3.0,North Bergen,,,,13.0,,,Active,,HCMLS,210017546,Y,Y,40.762452,-74.049159
+61,MLS Listing,2025,Multi-Family (2-4 Unit),720 7TH St,Union City,NJ,7087,599999.0,6.0,3.0,Union City,,,,15.0,,,Active,,HCMLS,210017365,Y,Y,40.758156,-74.0429772
+62,MLS Listing,2025,Multi-Family (2-4 Unit),35-53 Kent St,Newark City,NJ,07108-1627,475000.0,6.0,4.5,Newark City,,3049.0,2007.0,14.0,,,Active,,GSMLS,3728995,Y,Y,40.730067,-74.2029325
+63,MLS Listing,2025,Multi-Family (2-4 Unit),13 WOODLAWN Ave,JERSEY CITY,NJ,7305,490000.0,7.0,2.0,Jersey City (Greenville),,,,14.0,,,Active,,HCMLS,210017443,Y,Y,40.6995187,-74.0818972
+66,PAST SALE,April-7-2021,Multi-Family (2-4 Unit),362-364 S 7th St,Newark,NJ,7103,400000.0,6.0,3.0,Newark,,3450.0,,119.0,,,Sold,,NJMLS,21000487,Y,Y,40.736073,-74.199037
+67,MLS Listing,2025,Multi-Family (2-4 Unit),236 Day Ave,Cliffside Park,NJ,7010,595000.0,4.0,3.0,Cliffside Park,,3999.0,,26.0,,,Active,,NJMLS,21028055,Y,Y,40.8118091,-73.9945957
+68,MLS Listing,2025,Single Family Residential,744 Greeley Ave,Fairview,NJ,7022,459900.0,4.0,2.5,Fairview,,5458.0,,280.0,,,Active,,NJMLS,20045669,Y,Y,40.8240026,-74.0074922
+69,MLS Listing,2025,Single Family Residential,498 Martling Pl,Ridgefield,NJ,7657,470000.0,4.0,2.5,Ridgefield,,3376.0,,16.0,,,Active,,NJMLS,21029262,Y,Y,40.825309,-73.9979012
+70,MLS Listing,2025,Multi-Family (2-4 Unit),567 Studio Rd,Ridgefield,NJ,7657,499000.0,5.0,3.0,Ridgefield,,4761.0,,264.0,,,Active,,NJMLS,20048058,Y,Y,40.8288206,-73.9965698
+71,MLS Listing,2025,Multi-Family (2-4 Unit),226 7th St,Palisades Park,NJ,7650,589000.0,4.0,3.0,Palisades Park,,2500.0,,203.0,,,Active,August-8-2021 02:00 PM,NJMLS,21001399,Y,Y,40.8426101,-73.9924379
+72,MLS Listing,2025,Multi-Family (2-4 Unit),20 Edwin Pl,Newark City,NJ,07112-1522,349000.0,9.0,3.0,Newark City,19998.0,3049.0,1970.0,40.0,17.0,,Active,,GSMLS,3723200,Y,Y,40.7153221,-74.2158805
+73,MLS Listing,2025,Multi-Family (2-4 Unit),304-306 Renner Ave,Newark,NJ,7112,499900.0,10.0,3.0,Newark,,5898.0,,11.0,,,Active,,NJMLS,21030231,Y,Y,40.7138095,-74.21204
+74,MLS Listing,2025,Single Family Residential,124 ORIENT Ave,JERSEY CITY,NJ,7305,400000.0,5.0,3.0,Jersey City (Greenville),,,,13.0,,,Active,,HCMLS,210017568,Y,Y,40.7118174,-74.0812748
+75,MLS Listing,2025,Multi-Family (2-4 Unit),48 BERGEN Ave,JERSEY CITY,NJ,7305,450000.0,4.0,2.5,Jersey City (Greenville),,,,70.0,,,Active,,HCMLS,210012758,Y,Y,40.7049259,-74.088184
+76,MLS Listing,2025,Multi-Family (2-4 Unit),25 Hopkins Ave,Jersey City,NJ,7306,499900.0,4.0,3.0,Jersey City,,1800.0,,44.0,,,Active,,NJMLS,21025008,Y,Y,40.7345792,-74.0518947
+77,MLS Listing,2025,Multi-Family (2-4 Unit),127 62ND St,West New York,NJ,7093,575000.0,5.0,4.0,West New York,,,,15.0,,,Active,,HCMLS,210017374,Y,Y,40.7881561,-74.0084062
+78,MLS Listing,2025,Single Family Residential,530 42ND St,Union City,NJ,7087,399000.0,5.0,3.0,Union City,,,,36.0,,,Active,,HCMLS,210015702,Y,Y,40.7782152,-74.0262368
+79,MLS Listing,2025,Multi-Family (2-4 Unit),625 38th St,Union City,NJ,7087,589900.0,5.0,2.0,Union City,,2500.0,,18.0,,,Active,,NJMLS,21029122,Y,Y,40.7767891,-74.0305401
+80,MLS Listing,2025,Single Family Residential,116.5 CLINTON Ave,JERSEY CITY,NJ,7304,579998.0,5.0,1.5,Jersey City (Bergen-Lafayette),,,,12.0,,,Active,,HCMLS,210017710,Y,Y,40.7177726,-74.0764445
+81,MLS Listing,2025,Single Family Residential,1215 89TH St,North Bergen,NJ,7047,549900.0,3.0,1.5,North Bergen,,,,43.0,,,Active,,HCMLS,210015105,Y,Y,40.8106263,-74.0082765
+82,PAST SALE,May-2-2018,Multi-Family (2-4 Unit),102-27 184th St,Jamaica,NY,11423,660000.0,6.0,3.0,Jamaica,,2000.0,1935.0,334.0,,,Pending,,OneKey,3249490,Y,Y,40.706515,-73.772964
+83,MLS Listing,2025,Single Family Residential,257 S 6th St,Newark,NJ,7103,240000.0,3.0,1.5,Newark,,1973.0,,13.0,,,Active,,NJMLS,21029877,Y,Y,40.7390234,-74.1975485
+84,MLS Listing,2025,Multi-Family (2-4 Unit),117 Rutherford Pl,Kearny,NJ,7032,500000.0,6.0,2.0,Kearny,,4818.0,,22.0,,,Active,,NJMLS,21028476,Y,Y,40.7798605,-74.1371399
+85,MLS Listing,2025,Multi-Family (2-4 Unit),18 WINFIELD Ave,JERSEY CITY,NJ,7305,575000.0,6.0,2.0,Jersey City (Greenville),,,,15.0,,,Active,,HCMLS,210017352,Y,Y,40.6904295,-74.091442
+86,PAST SALE,2025,Townhouse,153 Ada Dr,Staten Island,NY,10314,659999.0,5.0,4.0,Graniteville,2220.0,3225.0,1980.0,16.0,297.0,,Pending,,SIBORMLS,1147862,Y,Y,40.6208519,-74.1592163
+87,MLS Listing,2025,Multi-Family (2-4 Unit),240 BOYD Ave,JERSEY CITY,NJ,7304,599000.0,6.0,3.0,Jersey City (West Bergen),,,,16.0,,,Active,,HCMLS,210017275,Y,Y,40.7198927,-74.089182
+88,MLS Listing,2025,Multi-Family (2-4 Unit),30 Spruce St,Newark City,NJ,07102-1010,409000.0,4.0,2.0,Newark City,1998.0,1306.0,1915.0,83.0,205.0,,Active,,GSMLS,3712145,Y,Y,40.727127,-74.180763
+89,MLS Listing,2025,Multi-Family (2-4 Unit),222 71ST St,Guttenberg,NJ,7093,599999.0,5.0,2.0,Guttenberg,,,,22.0,,,Active,,HCMLS,210016797,Y,Y,40.7948499,-74.0058084
+90,MLS Listing,2025,Multi-Family (2-4 Unit),420 TOURNADE Pl,Union City,NJ,7087,410000.0,6.0,3.0,Union City,,,,61.0,,,Active,,HCMLS,210013592,Y,Y,40.7597576,-74.0371121
+91,MLS Listing,2025,Single Family Residential,664 Elm Ave,Ridgefield,NJ,7657,459000.0,4.0,2.0,Ridgefield,,7000.0,,91.0,,,Active,,NJMLS,21017086,Y,Y,40.8363822,-73.9968912
+92,MLS Listing,2025,Multi-Family (2-4 Unit),6202 JEFFERSON St,West New York,NJ,7093,470000.0,4.0,3.0,West New York,,,,20.0,,,Active,,HCMLS,210016961,Y,Y,40.7931668,-74.0184212
+93,MLS Listing,2025,Multi-Family (2-4 Unit),312 NEPTUNE Ave,JERSEY CITY,NJ,7305,518000.0,5.0,3.0,Jersey City (West Bergen),,,,41.0,,,Active,,HCMLS,210015270,Y,Y,40.6988058,-74.1002177
+94,MLS Listing,2025,Multi-Family (2-4 Unit),111 GATES Ave,JERSEY CITY,NJ,7305,470000.0,6.0,2.0,Jersey City (Greenville),,,,37.0,,,Active,,HCMLS,210015562,Y,Y,40.6911778,-74.0968222
+95,MLS Listing,2025,Multi-Family (2-4 Unit),47 Winfield Ave,Jersey City,NJ,7305,499999.0,5.0,2.0,Jersey City,,2490.0,,64.0,,,Active,,NJMLS,21021569,Y,Y,40.6910243,-74.0925777
+96,MLS Listing,2025,Multi-Family (2-4 Unit),99 ATLANTIC St,JERSEY CITY,NJ,7304,599000.0,5.0,4.0,Jersey City (Bergen-Lafayette),,,,128.0,,,Active,August-8-2021 04:00 PM,HCMLS,210007307,Y,Y,40.7156485,-74.0776351
+98,MLS Listing,2025,Multi-Family (2-4 Unit),110-20 Union Hall St,Jamaica,NY,11433,499000.0,5.0,2.0,Jamaica,,3060.0,1920.0,23.0,,,Active,,OneKey,3329196,Y,Y,40.692318,-73.7897629
+99,MLS Listing,2025,Multi-Family (2-4 Unit),630 S 12th St,Newark,NJ,7103,215000.0,4.0,2.0,Newark,,2113.0,,83.0,,,Active,,NJMLS,21018403,Y,Y,40.7317112,-74.2057574
+101,MLS Listing,2025,Multi-Family (2-4 Unit),44 Marne St,Newark City,NJ,7105,569000.0,6.0,3.0,Ironbound,,2613.0,1910.0,19.0,,,Active,,GSMLS,3727861,Y,Y,40.7251326,-74.1502599
+102,MLS Listing,2025,Single Family Residential,3604 CHARLES Ct,North Bergen,NJ,7047,435000.0,4.0,2.0,North Bergen,1549.0,,,35.0,281.0,,Active,,HCMLS,210015750,Y,Y,40.7780018,-74.0362053
+104,MLS Listing,2025,Multi-Family (2-4 Unit),95 Milford Ave,Newark City,NJ,07108-2815,480000.0,6.0,5.0,Newark City,3264.0,4791.0,2005.0,20.0,147.0,,Active,,GSMLS,3727673,Y,Y,40.7193926,-74.1908986
+105,MLS Listing,2025,Condo/Co-op,762 Cauldwell Ave #17,BRONX,NY,10456,126000.0,3.0,1.0,762 Cauldwell Ave. Housi,946.0,,1906.0,55.0,133.0,846.0,Active,,OneKey,H6122967,Y,Y,40.8194025,-73.9082176
+106,MLS Listing,2025,Multi-Family (2-4 Unit),17 N Terrace Ave,Mount Vernon,NY,10550,475000.0,4.0,2.0,Mount Vernon,2451.0,2452.0,1901.0,20.0,194.0,,Active,,OneKey,H6128858,Y,Y,40.912805,-73.847129
+108,MLS Listing,2025,Multi-Family (2-4 Unit),1511 73RD St,North Bergen,NJ,7047,679000.0,7.0,3.0,North Bergen,,,,20.0,,,Active,,HCMLS,210017002,Y,Y,40.801693,-74.018572
+109,MLS Listing,2025,Multi-Family (2-4 Unit),21 Van Buren St,Yonkers,NY,10701,499000.0,5.0,2.0,Nodine Hill,1564.0,2596.0,1902.0,56.0,319.0,,Active,,OneKey,H6121641,Y,Y,40.9348911,-73.8825303
+110,MLS Listing,2025,Single Family Residential,10 Stewart Pl,Yonkers,NY,10701,250000.0,5.0,2.0,Yonkers,1288.0,1211.0,1895.0,71.0,194.0,,Active,,OneKey,H6117907,Y,Y,40.938907,-73.8891813
+111,MLS Listing,2025,Multi-Family (2-4 Unit),247 AKA 245 Warburton Ave,Yonkers,NY,10701,599000.0,9.0,3.0,Yonkers,2224.0,2705.0,1895.0,54.0,269.0,,Active,,OneKey,H6109574,Y,Y,40.9438571,-73.8975626
+112,MLS Listing,2025,Multi-Family (2-4 Unit),37 Cliff Ave,Yonkers,NY,10701,559005.0,7.0,3.0,Yonkers,2177.0,3629.0,1915.0,106.0,257.0,,Active,,OneKey,H6109272,Y,Y,40.918888,-73.898998
+113,PAST SALE,July-24-1996,Multi-Family (2-4 Unit),1530 Commonwealth Ave,BRONX,NY,10460,790000.0,10.0,3.0,BRONX,3102.0,2374.0,1910.0,63.0,255.0,,Pending,,OneKey,H6099164,Y,Y,40.8389201,-73.868944
+114,MLS Listing,2025,Multi-Family (2-4 Unit),26 Governor St,Newark,NJ,7102,559900.0,8.0,6.0,Newark,,3785.0,,22.0,,,Contingent,,NJMLS,21028520,Y,Y,40.7290496,-74.1806709
+115,MLS Listing,2025,Multi-Family (2-4 Unit),2911 Avenue D,Brooklyn,NY,11226,399000.0,6.0,3.0,Brooklyn,2160.0,1800.0,1910.0,202.0,185.0,,Active,,BNYMLS,446663,Y,Y,40.6410944,-73.9490931
+116,MLS Listing,2025,Multi-Family (2-4 Unit),320 W Runyon St,Newark,NJ,7108,479900.0,9.0,5.0,Newark,,5001.0,,64.0,,,Active,,NJMLS,21021388,Y,Y,40.7194055,-74.2099673
+117,MLS Listing,2025,Multi-Family (2-4 Unit),9 Goodwin Ave,Newark,NJ,7112,475000.0,6.0,5.0,Newark,,4177.0,,22.0,,,Active,,NJMLS,21028427,Y,Y,40.7176756,-74.2098388
+118,MLS Listing,2025,Multi-Family (2-4 Unit),270 Schley St,Newark City,NJ,07112-1012,220000.0,7.0,3.0,Newark City,19998.0,3920.0,,22.0,11.0,,Active,,GSMLS,3726911,Y,Y,40.7121968,-74.2237332
+119,MLS Listing,2025,Multi-Family (2-4 Unit),6 Adams St,Newark,NJ,7105,519000.0,6.0,3.0,Newark,,492.0,,22.0,,,Active,,NJMLS,21028403,Y,Y,40.7317564,-74.1561235
+121,PAST SALE,July-12-2011,Multi-Family (2-4 Unit),15 PACKARD St,Bayonne,NJ,07002-4922,300000.0,6.0,4.0,Bayonne,,,,3676.0,,,Sold,,HCMLS,110005798,Y,Y,40.6633169,-74.1108512
+122,MLS Listing,2025,Multi-Family (2-4 Unit),23 Lentz Ave,Newark,NJ,7105,369900.0,4.0,2.0,Newark,,1786.0,,23.0,,,Active,,NJMLS,21028325,Y,Y,40.7313448,-74.1386538
+123,MLS Listing,2025,Multi-Family (2-4 Unit),293 Clifton Ave,Newark,NJ,7104,375000.0,6.0,2.0,Newark,,2696.0,,23.0,,,Active,,NJMLS,21028326,Y,Y,40.7600726,-74.1749377
+124,MLS Listing,2025,Multi-Family (2-4 Unit),184 Huntington Ter,Newark,NJ,7112,425000.0,5.0,3.0,Newark,,3851.0,,23.0,,,Active,,NJMLS,21028278,Y,Y,40.7114777,-74.2119483
+125,MLS Listing,2025,Single Family Residential,271 EGE Ave,JERSEY CITY,NJ,7304,449000.0,4.0,2.5,Jersey City (West Bergen),,,,110.0,,,Active,,HCMLS,210009146,Y,Y,40.7165867,-74.0870368
+126,MLS Listing,2025,Multi-Family (2-4 Unit),45 E 36th St,Bayonne,NJ,7002,535000.0,6.0,4.0,Bayonne,,2500.0,,23.0,,,Contingent,,NJMLS,21028211,Y,Y,40.6735949,-74.1075017
+127,MLS Listing,2025,Multi-Family (2-4 Unit),151 Garside St,Newark City,NJ,07104-1911,450000.0,7.0,3.0,Newark City,,2613.0,1882.0,25.0,,,Active,,GSMLS,3726446,Y,Y,40.7564621,-74.1748001
+129,MLS Listing,2025,Multi-Family (2-4 Unit),465-467 S 16th St #2,Newark City,NJ,07103-1603,575000.0,6.0,4.5,Newark City,4075.0,3484.0,2021.0,26.0,141.0,,Active,,GSMLS,3726290,Y,Y,40.7399716,-74.2068752
+130,PAST SALE,April-24-2014,Single Family Residential,111-03 Witthoff St,Queens Village,NY,11429,399000.0,5.0,3.0,Queens Village,,2381.0,1950.0,2660.0,,,Sold,,MLSLI,2638595,Y,Y,40.707135,-73.741905
+131,MLS Listing,2025,Multi-Family (2-4 Unit),594 S 20Th St,Newark City,NJ,07103-1113,550000.0,8.0,5.0,Newark City,2125.0,2613.0,2007.0,26.0,259.0,,Active,,GSMLS,3726334,Y,Y,40.7364342,-74.2116273
+132,PAST SALE,April-21-2017,Multi-Family (2-4 Unit),241 Lockman Ave,Staten  Island,NY,10303,499000.0,6.0,2.75,Staten  Island,1800.0,2943.0,2003.0,27.0,277.0,,Pending,,BNYMLS,453652,Y,Y,40.6311325,-74.1614639
+133,MLS Listing,2025,Multi-Family (2-4 Unit),19 Schuyler Ave,Newark,NJ,7112,334900.0,6.0,4.0,Newark,,3500.0,,60.0,,,Contingent,,NJMLS,21022504,Y,Y,40.7171738,-74.2090134
+135,MLS Listing,2025,Multi-Family (2-4 Unit),410 19th St,Union City,NJ,7087,579995.0,5.0,3.0,Union City,,1999.0,,27.0,,,Contingent,,NJMLS,21027793,Y,Y,40.7640532,-74.033865
+137,MLS Listing,2025,Single Family Residential,655 Devon St,Kearny,NJ,7032,349999.0,4.0,2.0,Kearny,,4082.0,,28.0,,,Contingent,,NJMLS,21027361,Y,Y,40.7717548,-74.1403233
+138,PAST SALE,September-2-2014,Single Family Residential,245 Legion St,Brooklyn,NY,11212,629000.0,5.0,2.0,Brooklyn,1400.0,1600.0,1930.0,29.0,449.0,,Pending,,BNYMLS,453614,Y,Y,40.6627339,-73.9165207
+141,MLS Listing,2025,Multi-Family (2-4 Unit),52 N 15th St,East Orange,NJ,7017,359999.0,6.0,2.0,East Orange,,2997.0,,28.0,,,Contingent,,NJMLS,21027376,Y,Y,40.7576004,-74.1967803
+143,MLS Listing,2025,Multi-Family (2-4 Unit),70 S 13th St,Newark,NJ,7107,430000.0,9.0,5.0,Newark,,2500.0,,27.0,,,Contingent,,NJMLS,21027631,Y,Y,40.7527179,-74.1974171
+144,MLS Listing,2025,Multi-Family (2-4 Unit),497 OCEAN Ave,JERSEY CITY,NJ,7305,629000.0,6.0,5.0,Jersey City (Greenville),,,,28.0,,,Active,,HCMLS,210016302,Y,Y,40.7034639,-74.080958
+145,MLS Listing,2025,Multi-Family (2-4 Unit),55 Chester Ave,Newark,NJ,7104,400000.0,5.0,2.0,Newark,,2605.0,,29.0,,,Contingent,,NJMLS,21027200,Y,Y,40.7680721,-74.162324
+146,PAST SALE,May-23-2019,Multi-Family (2-4 Unit),84 WARNER Ave,JERSEY CITY,NJ,7305,410000.0,7.0,3.0,Jersey City (Greenville),,,,804.0,,,Sold,,HCMLS,190005441,Y,Y,40.7005423,-74.0890903
+147,MLS Listing,2025,Multi-Family (2-4 Unit),73 Rose St,Kearny,NJ,7032,449887.0,5.0,2.0,Kearny,,1110240.0,,30.0,,,Active,,NJMLS,21027053,Y,Y,40.7552161,-74.1563494
+148,PAST SALE,March-14-1995,Multi-Family (2-4 Unit),98 Vista Pl,Mount Vernon,NY,10550,750000.0,9.0,3.0,Mount Vernon,3000.0,5275.0,1930.0,33.0,250.0,,Pending,,OneKey,H6128248,Y,Y,40.906486,-73.8474729
+149,MLS Listing,2025,Single Family Residential,344-346 Ridge St,Newark,NJ,7104,549000.0,5.0,4.5,Newark,,5001.0,,190.0,,,Contingent,,NJMLS,21002946,Y,Y,40.7648982,-74.1740065
+150,MLS Listing,2025,Multi-Family (2-4 Unit),71 W 19TH St,Bayonne,NJ,7002,489999.0,7.0,2.0,Bayonne,,,,33.0,,,Active,,HCMLS,210015976,Y,Y,40.663126,-74.123401
+151,MLS Listing,2025,Single Family Residential,642 Shepherd Ave,E. New York,NY,11208,688000.0,5.0,3.5,E. New York,,3052.0,1986.0,93.0,,,Active,,OneKey,3309014,Y,Y,40.6683294,-73.8796363
+152,MLS Listing,2025,Multi-Family (2-4 Unit),19-23 Stuyvesant Ave,Kearny,NJ,7032,629000.0,12.0,4.0,Kearny,,7501.0,,309.0,,,Contingent,,NJMLS,20040810,Y,Y,40.7787794,-74.142561
+153,MLS Listing,2025,Single Family Residential,70 Dukes St,Kearny,NJ,7032,375000.0,4.0,1.5,Kearny,,2161.0,,49.0,,,Contingent,,NJMLS,21024354,Y,Y,40.7539336,-74.15237
+154,MLS Listing,2025,Multi-Family (5+ Unit),202 Kearny Ave,Kearny,NJ,7032,375000.0,6.0,,Kearny,,,,36.0,,,Contingent,,NJMLS,21026246,Y,Y,40.7581103,-74.1524159
+155,MLS Listing,2025,Single Family Residential,11540 Marsden St,Queens,NY,11434,605000.0,4.0,3.0,Jamaica,1188.0,2851.0,2002.0,34.0,509.0,,Active,August-8-2021 02:30 PM,SIBORMLS,1147466,Y,Y,40.686757,-73.783412
+156,MLS Listing,2025,Multi-Family (2-4 Unit),1089 Grove St,Irvington,NJ,7111,379000.0,7.0,3.0,Irvington,,4047.0,,22.0,,,Active,,NJMLS,21028447,Y,Y,40.7220771,-74.224742
+157,MLS Listing,2025,Multi-Family (2-4 Unit),158 Brill St,Newark,NJ,7105,489000.0,6.0,2.0,Newark,,3049.0,,29.0,,,Active,,NJMLS,21027131,Y,Y,40.7286103,-74.1398809
+158,MLS Listing,2025,Multi-Family (2-4 Unit),24 GATES Ave,JERSEY CITY,NJ,7305,475000.0,5.0,3.0,Jersey City (Greenville),,,,35.0,,,Active,,HCMLS,210015802,Y,Y,40.6886352,-74.0941378
+159,PAST SALE,July-20-1999,Multi-Family (2-4 Unit),550 35TH St,Union City,NJ,7087,186000.0,5.0,3.0,Union City,,,,8051.0,,,Sold,,HCMLS,9900484,Y,Y,40.7747318,-74.0298401
+160,MLS Listing,2025,Multi-Family (2-4 Unit),14 Caroline Ave,Clifton,NJ,7011,460000.0,5.0,3.0,Clifton,,2627.0,,34.0,,,Contingent,,NJMLS,21026746,Y,Y,40.8800672,-74.1357906
+161,MLS Listing,2025,Multi-Family (2-4 Unit),170 Goodwin Ave,Newark,NJ,7112,469000.0,7.0,3.5,Newark,,3302.0,,23.0,,,Active,,NJMLS,21028366,Y,Y,40.7125459,-74.2135074
+162,MLS Listing,2025,Single Family Residential,496 S 18th St,Newark,NJ,7103,239900.0,4.0,2.0,Newark,,1681.0,,63.0,,,Contingent,,NJMLS,21021898,Y,Y,40.739438,-74.2085892
+164,MLS Listing,2025,Single Family Residential,771-773 S 18th St,Newark,NJ,7103,425000.0,5.0,3.0,Newark,,5715.0,,42.0,,,Contingent,,NJMLS,21025550,Y,Y,40.7294013,-74.2129872
+165,MLS Listing,2025,Multi-Family (2-4 Unit),70 1/2 Stone St,Newark,NJ,7104,400000.0,5.0,3.0,Newark,,3001.0,,36.0,,,Contingent,,NJMLS,21026371,Y,Y,40.7539327,-74.1746625
+166,MLS Listing,2025,Single Family Residential,248 1/2 Chestnut St,Newark,NJ,7105,264900.0,3.0,1.0,Newark,,,,43.0,,,Active,,NJMLS,21025255,Y,Y,40.7233577,-74.1649581
+167,MLS Listing,2025,Multi-Family (2-4 Unit),129 W 20th St,Bayonne,NJ,7002,599000.0,6.0,3.0,Bayonne,,2566.0,,35.0,,,Active,,NJMLS,21026449,Y,Y,40.6649305,-74.1253494
+169,MLS Listing,2025,Multi-Family (2-4 Unit),302 UNION St,JERSEY CITY,NJ,07304-1844,595000.0,7.0,4.0,Jersey City (West Bergen),,,,69.0,,,Active,,HCMLS,210012772,Y,Y,40.717773,-74.0822299
+170,MLS Listing,2025,Multi-Family (2-4 Unit),140 Goodwin Ave,Newark City,NJ,07112-1807,445000.0,5.0,2.0,Newark City,1998.0,3484.0,,55.0,223.0,,Active,,GSMLS,3719313,Y,Y,40.7133645,-74.2127279
+171,MLS Listing,2025,Multi-Family (2-4 Unit),8 Burdette Pl,Fairview,NJ,7022,549900.0,6.0,3.0,Fairview,,2374.0,,37.0,,,Contingent,,NJMLS,21026192,Y,Y,40.821092,-74.006545
+172,MLS Listing,2025,Single Family Residential,245 S 5th Ave,Mount Vernon,NY,10550,425000.0,5.0,1.5,Mount Vernon,1700.0,3568.0,1910.0,37.0,250.0,,Active,,OneKey,H6127071,Y,Y,40.9050563,-73.8353129
+173,MLS Listing,2025,Multi-Family (2-4 Unit),13 W 50th St,Bayonne,NJ,7002,414900.0,5.0,2.0,Bayonne,,2500.0,,27.0,,,Active,,NJMLS,21027797,Y,Y,40.6832082,-74.1028101
+175,MLS Listing,2025,Single Family Residential,190 LINDEN Ave,JERSEY CITY,NJ,7305,364999.0,3.0,1.0,Jersey City (Greenville),,,,63.0,,,Active,,HCMLS,210013309,Y,Y,40.6977865,-74.093461
+177,MLS Listing,2025,Multi-Family (2-4 Unit),198 Parker St,Newark,NJ,7104,430000.0,6.0,2.0,Newark,,2500.0,,39.0,,,Active,,NJMLS,21026025,Y,Y,40.7598485,-74.1775406
+178,MLS Listing,2025,Multi-Family (2-4 Unit),37 Blum St,Newark,NJ,7103,399999.0,9.0,3.0,Newark,,2500.0,,40.0,,,Active,,NJMLS,21025966,Y,Y,40.7333035,-74.2025014
+179,MLS Listing,2025,Multi-Family (2-4 Unit),89 Clifton Ave,Newark City,NJ,07104-1017,479000.0,8.0,5.0,Newark City,297.0,2613.0,,57.0,1613.0,,Active,,GSMLS,3718566,Y,Y,40.7525272,-74.1788937
+180,MLS Listing,2025,Multi-Family (2-4 Unit),11 DWIGHT St,JERSEY CITY,NJ,7305,499000.0,6.0,2.0,Jersey City (Greenville),,,,41.0,,,Active,,HCMLS,210015272,Y,Y,40.7007459,-74.079996
+182,MLS Listing,2025,Multi-Family (2-4 Unit),72 Fabyan Pl,Newark City,NJ,07108-1024,350000.0,4.0,2.0,Newark City,,1742.0,,27.0,,,Active,,GSMLS,3726020,Y,Y,40.7209565,-74.2167526
+184,MLS Listing,2025,Multi-Family (2-4 Unit),864 S 16th St,Newark,NJ,7108,475000.0,8.0,3.0,Newark,,3001.0,,47.0,,,Contingent,,NJMLS,21024730,Y,Y,40.7254288,-74.2119483
+186,MLS Listing,2025,Single Family Residential,78 WINFIELD Ave,JERSEY CITY,NJ,7305,399000.0,5.0,2.0,Jersey City (Greenville),1420.0,,,46.0,281.0,,Active,,HCMLS,210014895,Y,Y,40.6922514,-74.0930715
+190,MLS Listing,2025,Multi-Family (2-4 Unit),6120 Jefferson St,West New York,NJ,7093,479000.0,5.0,3.0,West New York,,2500.0,,49.0,,,Active,,NJMLS,21024363,Y,Y,40.792387,-74.018985
+191,MLS Listing,2025,Multi-Family (2-4 Unit),128 GRANT Ave,JERSEY CITY,NJ,7305,590000.0,8.0,4.0,Jersey City (Greenville),,,,50.0,,,Active,,HCMLS,210014550,Y,Y,40.7103427,-74.0824135
+193,MLS Listing,2025,Multi-Family (2-4 Unit),116-120 Tappan St,Kearny,NJ,7032,587000.0,5.0,3.0,Kearny,,6199.0,,51.0,,,Contingent,,NJMLS,21023959,Y,Y,40.7535031,-74.1484082
+194,PAST SALE,March-1-2004,Multi-Family (2-4 Unit),88 WEGMAN Pkwy,JERSEY CITY,NJ,,336000.0,6.0,5.0,Jersey City (Greenville),,,,6365.0,,,Sold,,HCMLS,301350,Y,Y,40.7038908,-74.0808418
+195,PAST SALE,March-22-2012,Single Family Residential,4524 SMITH Ave,North Bergen,NJ,07047-2746,249000.0,3.0,1.5,North Bergen,,,,3422.0,,,Sold,,HCMLS,120000076,Y,Y,40.7817327,-74.0262827
+197,MLS Listing,2025,Multi-Family (2-4 Unit),60 Oak St,Mount Vernon,NY,10550,525000.0,5.0,2.0,Mount Vernon,2200.0,2161.0,1930.0,252.0,239.0,,Active,,OneKey,H6084627,Y,Y,40.9141032,-73.8472246
+198,MLS Listing,2025,Multi-Family (2-4 Unit),6017 Monroe Pl,West New York,NJ,7093,589000.0,6.0,3.0,West New York,,2500.0,,68.0,,,Active,,NJMLS,21021132,Y,Y,40.7881192,-74.0130852
+200,MLS Listing,2025,Multi-Family (2-4 Unit),121 57th St,West New York,NJ,7093,599000.0,5.0,3.0,West New York,,2100.0,,59.0,,,Active,,NJMLS,21022548,Y,Y,40.7842169,-74.0120492
+201,MLS Listing,2025,Multi-Family (2-4 Unit),87 Highland Ave,Kearny,NJ,7032,475000.0,5.0,2.0,Kearny,,2940.0,,58.0,,,Contingent,,NJMLS,21022610,Y,Y,40.7562314,-74.1574618
+202,MLS Listing,2025,Single Family Residential,1503 64TH St,North Bergen,NJ,7047,529900.0,4.0,3.0,North Bergen,,,,49.0,,,Active,,HCMLS,210014577,Y,Y,40.7965176,-74.0225416
+203,PAST SALE,2025,Single Family Residential,776 Elsmere Pl,BRONX,NY,10460,499000.0,4.0,2.5,BRONX,1604.0,2500.0,1901.0,60.0,311.0,,Pending,,OneKey,H6121481,Y,Y,40.8433903,-73.8891175
+204,MLS Listing,2025,Multi-Family (2-4 Unit),97 Hedden Ter,Newark,NJ,7108,450000.0,6.0,4.5,Newark,,3123.0,,61.0,,,Contingent,,NJMLS,21022335,Y,Y,40.7188831,-74.204932
+205,MLS Listing,2025,Multi-Family (2-4 Unit),2 Eastern Way,Rutherford,NJ,7070,575000.0,6.0,3.0,Rutherford,,4008.0,,62.0,,,Contingent,,NJMLS,21021962,Y,Y,40.8242796,-74.1008781
+206,MLS Listing,2025,Multi-Family (2-4 Unit),103 Cutler St,Newark,NJ,7104,539900.0,6.0,3.0,Newark,,1477.0,,63.0,,,Active,,NJMLS,21021819,Y,Y,40.7548434,-74.1746854
+207,MLS Listing,2025,Multi-Family (2-4 Unit),941 S 20th St,Newark,NJ,7108,375000.0,8.0,3.0,Newark,,3520.0,,42.0,,,Active,,NJMLS,21025421,Y,Y,40.724103,-74.216943
+208,MLS Listing,2025,Multi-Family (2-4 Unit),6807 Newkirk Ave,North Bergen,NJ,7047,389000.0,4.0,2.0,North Bergen,,2500.0,,64.0,,,Contingent,,NJMLS,21021541,Y,Y,40.7981366,-74.0189266
+209,MLS Listing,2025,Multi-Family (2-4 Unit),116 Cross St,Harrison,NJ,7029,549900.0,6.0,2.0,Harrison,,2339.0,,64.0,,,Contingent,,NJMLS,21021374,Y,Y,40.7491946,-74.1584739
+210,MLS Listing,2025,Single Family Residential,627 Bryant Ave,Teaneck,NJ,7666,525000.0,4.0,2.0,Teaneck,,2026.0,,67.0,,,Contingent,,NJMLS,21021235,Y,Y,40.8770014,-73.9991407
+211,MLS Listing,2025,Townhouse,1028 Smith Manor Blvd,West Orange,NJ,7052,489000.0,8.0,4.0,West Orange,,,,66.0,,,Contingent,,NJMLS,21021267,Y,Y,40.8004185,-74.243686
+213,MLS Listing,2025,Multi-Family (2-4 Unit),721 S 15th St,Newark,NJ,7103,360000.0,5.0,2.0,Newark,,2500.0,,70.0,,,Contingent,,NJMLS,21020775,Y,Y,40.7294244,-74.2099191
+215,PAST SALE,2025,Condo/Co-op,813D St Anns Ave Unit D,BRONX,NY,10456,359000.0,3.0,1.5,Melrose Court Condo,1067.0,,1994.0,70.0,336.0,593.0,Pending,,OneKey,H6117223,Y,Y,40.8208907,-73.9102059
+216,MLS Listing,2025,Multi-Family (2-4 Unit),192 Hillside Ave,Newark,NJ,7108,369900.0,7.0,4.0,Newark,,3328.0,,71.0,,,Active,,NJMLS,21020591,Y,Y,40.716525,-74.1941548
+217,PAST SALE,July-20-2021,Multi-Family (2-4 Unit),227 58th St,West New York,NJ,7093,640000.0,7.0,3.0,West New York,,2500.0,,15.0,,,Sold,,NJMLS,20049775,Y,Y,40.785522,-74.0132688
+218,PAST SALE,July-23-2021,Single Family Residential,180 Dewey St,Newark,NJ,7112,315000.0,4.0,3.0,Newark,,3598.0,,12.0,,,Sold,,NJMLS,21008299,Y,Y,40.7135282,-74.2180472
+219,PAST SALE,September-8-2008,Multi-Family (2-4 Unit),131 WEGMAN Pkwy,JERSEY CITY,NJ,07305-3314,267000.0,6.0,2.0,Jersey City (Greenville),,,,4713.0,,,Sold,,HCMLS,80002018,Y,Y,40.704544,-74.0827
+220,MLS Listing,2025,Multi-Family (2-4 Unit),721-723 Clifton Ave,Newark,NJ,7104,459900.0,7.0,4.5,Newark,,4513.0,,73.0,,,Contingent,,NJMLS,21020251,Y,Y,40.7752025,-74.1669644
+221,MLS Listing,2025,Multi-Family (2-4 Unit),194-196 Hansbury Ave,Newark,NJ,7112,480000.0,8.0,3.0,Newark,,3999.0,,72.0,,,Active,,NJMLS,21020374,Y,Y,40.7065188,-74.2182695
+224,MLS Listing,2025,Multi-Family (2-4 Unit),30 Nichols St,Newark,NJ,7105,425000.0,4.0,2.0,Newark,,2618.0,,117.0,,,Contingent,,NJMLS,21013035,Y,Y,40.7252909,-74.1652252
+225,PAST SALE,July-30-2021,Single Family Residential,91 Seeley Ave,Kearny,NJ,7032,390000.0,6.0,1.0,Kearny,,5001.0,,5.0,,,Sold,,NJMLS,21020099,Y,Y,40.7790127,-74.1378718
+226,MLS Listing,2025,Multi-Family (2-4 Unit),24 Millington Ave,Newark,NJ,7108,530000.0,10.0,6.0,Newark,,3115.0,,75.0,,,Contingent,,NJMLS,21020078,Y,Y,40.719825,-74.2080639
+230,MLS Listing,2025,Multi-Family (2-4 Unit),321 Travers Pl,Lyndhurst,NJ,7071,559000.0,5.0,2.0,Lyndhurst,,5550.0,,84.0,,,Contingent,,NJMLS,21018184,Y,Y,40.8134767,-74.1289738
+233,MLS Listing,2025,Multi-Family (2-4 Unit),34 Victor St,Yonkers,NY,10701,500000.0,5.0,3.0,Yonkers,2200.0,2840.0,1899.0,78.0,227.0,,Active,,OneKey,H6115285,Y,Y,40.9340884,-73.888146
+234,MLS Listing,2025,Single Family Residential,68 Eppirt St,East Orange,NJ,7018,295000.0,5.0,2.0,East Orange,,5249.0,,82.0,,,Contingent,,NJMLS,21018654,Y,Y,40.7549596,-74.2194573
+235,MLS Listing,2025,Multi-Family (2-4 Unit),138 Sylvan Ave,Newark,NJ,7104,295000.0,6.0,3.0,Newark,,4238.0,,82.0,,,Contingent,,NJMLS,21018755,Y,Y,40.7814667,-74.1579205
+237,MLS Listing,2025,Multi-Family (2-4 Unit),358 Jersey Ave,Fairview,NJ,7022,444900.0,5.0,3.0,Fairview,,5001.0,,80.0,,,Contingent,,NJMLS,21018935,Y,Y,40.8182147,-73.9940906
+238,PAST SALE,September-29-2009,Multi-Family (2-4 Unit),197 MALLORY Ave,JERSEY CITY,NJ,07304-1254,259000.0,7.0,3.0,Jersey City (West Bergen),,,,4327.0,,,Sold,,HCMLS,90008250,Y,Y,40.721181,-74.087053
+239,PAST SALE,2025,Single Family Residential,37 Caryl Ave,Yonkers,NY,10705,484999.0,5.0,1.5,Yonkers,2284.0,1886.0,1908.0,147.0,212.0,,Pending,,OneKey,H6096410,Y,Y,40.9114304,-73.8946802
+240,MLS Listing,2025,Multi-Family (2-4 Unit),644 18th Ave,Irvington,NJ,7111,399000.0,11.0,3.0,Irvington,,3097.0,,78.0,,,Active,,NJMLS,21019336,Y,Y,40.7340699,-74.2135074
+241,PAST SALE,July-23-2021,Single Family Residential,41 Isabella Ave,Newark,NJ,7106,452000.0,5.0,3.0,Newark,,3759.0,,12.0,,,Sold,,NJMLS,21019369,Y,Y,40.7437815,-74.2205234
+242,MLS Listing,2025,Multi-Family (2-4 Unit),41 Groshon Ave,Yonkers,NY,10701,449999.0,9.0,3.0,Yonkers,2592.0,1877.0,1898.0,742.0,174.0,,Active,,OneKey,H5002603,Y,Y,40.927338,-73.8987269
+243,MLS Listing,2025,Multi-Family (2-4 Unit),188 Jersey Ave,Cliffside Park,NJ,7010,499876.0,6.0,2.0,Cliffside Park,,2500.0,,84.0,,,Contingent,,NJMLS,21018238,Y,Y,40.8162513,-73.9898479
+244,MLS Listing,2025,Multi-Family (2-4 Unit),1214 51st St,North Bergen,NJ,7047,499999.0,6.0,3.0,North Bergen,,3324.0,,147.0,,,Contingent,,NJMLS,21008324,Y,Y,40.7856025,-74.0255482
+246,MLS Listing,2025,Single Family Residential,1500 70th St,North Bergen,NJ,7047,469900.0,4.0,3.0,North Bergen,,2500.0,,138.0,,,Active,,NJMLS,21009826,Y,Y,40.7998159,-74.0198906
+247,PAST SALE,July-12-2006,Single Family Residential,725 Euclid Ave,E. New York,NY,11208,399000.0,3.0,2.5,E. New York,1296.0,1800.0,1960.0,772.0,308.0,,Pending,,OneKey,3141323,Y,Y,40.6691437,-73.870058
+248,PAST SALE,March-14-1996,Condo/Co-op,818 Trinity Ave Unit C,BRONX,NY,10456,320000.0,3.0,1.5,Nehemiah Condominium V,1072.0,,1995.0,85.0,299.0,200.0,Pending,,OneKey,H6107919,Y,Y,40.8205486,-73.9066442
+249,PAST SALE,April-1-2005,Multi-Family (2-4 Unit),553 54TH St,West New York,NJ,7093,342500.0,4.0,2.0,West New York,,,,5969.0,,,Sold,,HCMLS,408441,Y,Y,40.785596,-74.0211209
+250,MLS Listing,2025,Single Family Residential,767 Georgia Ave,E. New York,NY,11207,300000.0,4.0,1.0,E. New York,1595.0,2000.0,1920.0,83.0,188.0,,Active,,OneKey,3312490,Y,Y,40.6581994,-73.8923146
+251,MLS Listing,2025,Multi-Family (2-4 Unit),153 Devon St,Kearny,NJ,7032,549900.0,5.0,2.0,Kearny,,1999.0,,84.0,,,Contingent,,NJMLS,21018321,Y,Y,40.7568167,-74.152003
+252,PAST SALE,September-7-2018,Condo/Co-op,35 66TH St Unit L1,West New York,NJ,7093,147000.0,2.0,1.0,West New York,650.0,,,1062.0,226.0,240.0,Sold,,HCMLS,180012118,Y,Y,40.7893558,-74.004053
+253,MLS Listing,2025,Multi-Family (2-4 Unit),593 59TH St,West New York,NJ,7093,588000.0,8.0,4.0,West New York,,,,90.0,,,Active,,HCMLS,210010906,Y,Y,40.7897812,-74.0201201
+255,MLS Listing,2025,Multi-Family (2-4 Unit),79 Stevens Ave #2,Jersey City,NJ,07305-3013,495000.0,6.0,2.0,Jersey City,2100.0,3049.0,,90.0,236.0,,Active,,GSMLS,3710350,Y,Y,40.7012049,-74.0878972
+256,PAST SALE,May-27-2010,Multi-Family (2-4 Unit),56 STEVENS Ave,JERSEY CITY,NJ,07305-3012,186000.0,8.0,5.0,Jersey City (Greenville),,,,4087.0,,,Sold,,HCMLS,90014596,Y,Y,40.7008709,-74.0866201
+257,MLS Listing,2025,Multi-Family (2-4 Unit),216 69th St,Guttenberg,NJ,7093,599000.0,10.0,3.0,Guttenberg,,2500.0,,154.0,,,Active,,NJMLS,21007279,Y,Y,40.7934859,-74.0065894
+258,MLS Listing,2025,Multi-Family (2-4 Unit),332 VIRGINIA Ave,JERSEY CITY,NJ,07304-1449,675000.0,7.0,2.0,Jersey City (West Bergen),,,,105.0,,,Active,,HCMLS,210009448,Y,Y,40.7183375,-74.0879276
+259,PAST SALE,July-13-2021,Multi-Family (2-4 Unit),274 Belgrove Dr,Kearny,NJ,7032,645000.0,6.0,2.0,Kearny,,3498.0,,22.0,,,Sold,,NJMLS,21016885,Y,Y,40.7614246,-74.1553976
+261,PAST SALE,July-2-2021,Multi-Family (2-4 Unit),262 N 6th St,Newark,NJ,7107,405000.0,4.0,3.0,Newark,,2500.0,,33.0,,,Sold,,NJMLS,21015758,Y,Y,40.75774,-74.187744
+262,MLS Listing,2025,Multi-Family (2-4 Unit),664-666 Irvine Turner Blvd,Newark,NJ,7112,275000.0,5.0,2.0,Newark,,5001.0,,98.0,,,Contingent,,NJMLS,21015975,Y,Y,40.7110202,-74.1996838
+263,MLS Listing,2025,Multi-Family (2-4 Unit),834 S 19th St,Newark,NJ,7108,515000.0,6.0,4.5,Newark,,2500.0,,159.0,,,Active,,NJMLS,21006579,Y,Y,40.727275,-74.2141369
+265,PAST SALE,July-20-2021,Multi-Family (2-4 Unit),136 72ND St,North Bergen,NJ,7047,625000.0,6.0,2.5,North Bergen,,,,15.0,,,Sold,,HCMLS,210010129,Y,Y,40.7946266,-74.0036857
+266,PAST SALE,August-2-2021,Multi-Family (2-4 Unit),190 DWIGHT St,JERSEY CITY,NJ,7305,625000.0,7.0,3.5,Jersey City (Greenville),,,,2.0,,,Sold,,HCMLS,210009912,Y,Y,40.7047526,-74.0851797
+267,PAST SALE,November-6-2019,Multi-Family (2-4 Unit),199 GRANT Ave,JERSEY CITY,NJ,7305,500000.0,10.0,3.0,Jersey City (West Bergen),,,,637.0,,,Sold,,HCMLS,190017148,Y,Y,40.711703,-74.0853011
+268,MLS Listing,2025,Multi-Family (2-4 Unit),718 N 5th St,Harrison,NJ,7029,450000.0,5.0,2.0,Harrison,,2500.0,,100.0,,,Contingent,,NJMLS,21015541,Y,Y,40.7531577,-74.1545195
+269,MLS Listing,2025,Multi-Family (2-4 Unit),730 31st St,Union City,NJ,7087,599000.0,5.0,4.0,Union City,,2601.0,,100.0,,,Contingent,,NJMLS,21015426,Y,Y,40.7731968,-74.0324221
+270,MLS Listing,2025,Multi-Family (2-4 Unit),409 S 7th St,Newark City,NJ,07103-2015,269999.0,5.0,2.0,Newark City,,3920.0,1999.0,100.0,,,Active,,GSMLS,3707545,Y,Y,40.7344572,-74.2002543
+272,MLS Listing,2025,Multi-Family (2-4 Unit),6809 Adams St,Guttenberg,NJ,7093,549000.0,6.0,3.0,Guttenberg,,2500.0,,102.0,,,Contingent,,NJMLS,21015324,Y,Y,40.7966982,-74.0149673
+273,MLS Listing,2025,Multi-Family (2-4 Unit),14 Speedway Ave,Newark,NJ,7106,449900.0,8.0,3.0,Newark,,3380.0,,103.0,,,Contingent,,NJMLS,21015258,Y,Y,40.7440696,-74.2129113
+274,PAST SALE,June-30-2021,Multi-Family (2-4 Unit),609 Franklin St,Elizabeth,NJ,7206,305000.0,5.0,2.0,Elizabeth,,,,35.0,,,Sold,,NJMLS,21015067,Y,Y,40.6572687,-74.1984199
+275,MLS Listing,2025,Multi-Family (2-4 Unit),519 27TH St,Union City,NJ,7087,618000.0,6.0,2.0,Union City,,,,29.0,,,Active,,HCMLS,210016131,Y,Y,40.7696382,-74.0321582
+277,PAST SALE,July-2-2021,Multi-Family (2-4 Unit),640 Elm St,Kearny,NJ,7032,649900.0,7.0,3.0,Kearny,,3951.0,,33.0,,,Sold,,NJMLS,21014692,Y,Y,40.7745079,-74.1358553
+280,PAST SALE,July-20-2021,Multi-Family (2-4 Unit),115 CLARKE Ave,JERSEY CITY,NJ,7304,450000.0,5.0,2.5,Jersey City (West Bergen),,,,15.0,,,Sold,,HCMLS,210003235,Y,Y,40.717948,-74.091224
+281,MLS Listing,2025,Multi-Family (2-4 Unit),90 Vincent St,Newark,NJ,7105,550000.0,6.0,5.0,Newark,,1773.0,,239.0,,,Contingent,,NJMLS,20050672,Y,Y,40.729392,-74.1362338
+283,MLS Listing,2025,Multi-Family (2-4 Unit),36 Napoleon St,Newark City,NJ,07105-3114,435000.0,5.0,3.0,Ironbound,2500.0,1306.0,1900.0,15.0,174.0,,Active,,GSMLS,3728619,Y,Y,40.7224988,-74.1554434
+286,PAST SALE,April-24-2014,Condo/Co-op,66 ROMAINE Ave #16,JERSEY CITY,NJ,7306,156000.0,2.0,1.0,Jersey City (Journal Square),950.0,,,2659.0,164.0,284.0,Sold,,HCMLS,140002353,Y,Y,40.7322022,-74.069391
+287,MLS Listing,2025,Condo/Co-op,1614 Summit Ave #15,Union City,NJ,7087,235000.0,3.0,1.0,Union City,826.0,,,117.0,285.0,,Contingent,,NJMLS,21013078,Y,Y,40.7643383,-74.0394272
+288,PAST SALE,June-4-2021,Multi-Family (2-4 Unit),715 FOREST St,Kearny,NJ,7032,530000.0,5.0,3.0,Kearny,,,,61.0,,,Sold,,HCMLS,210008362,Y,Y,40.776738,-74.133045
+290,PAST SALE,July-12-2021,Condo/Co-op,2608 KENNEDY Blvd #4,Union City,NJ,7087,260000.0,3.0,1.0,Union City,1050.0,,,23.0,248.0,325.0,Sold,,HCMLS,210009199,Y,Y,40.7713803,-74.0359759
+293,MLS Listing,2025,Multi-Family (2-4 Unit),51 RUTGERS Ave,JERSEY CITY,NJ,7305,579900.0,7.0,5.0,Jersey City (Greenville),,,,110.0,,,Active,,HCMLS,210009110,Y,Y,40.6992847,-74.0899026
+296,PAST SALE,January-29-2018,Single Family Residential,646 Van Cortlandt Park Ave,Yonkers,NY,10705,500000.0,4.0,2.0,Yonkers,1900.0,5031.0,1922.0,135.0,263.0,,Pending,,OneKey,H6103679,Y,Y,40.9105687,-73.8915452
+297,PAST SALE,July-13-2021,Multi-Family (2-4 Unit),229 N 5th St,Newark,NJ,7107,470000.0,6.0,4.0,Newark,,2500.0,,22.0,,,Sold,,NJMLS,21013987,Y,Y,40.7556999,-74.1872754
+298,MLS Listing,2025,Condo/Co-op,135 Van Wagenen Ave Unit G1,Jersey City,NJ,7306,249999.0,3.0,1.0,Jersey City,918.0,,,188.0,272.0,,Contingent,,NJMLS,21003317,Y,Y,40.7351507,-74.0691815
+299,MLS Listing,2025,Multi-Family (2-4 Unit),48 Dukes St,Kearny,NJ,7032,425000.0,4.0,2.5,Kearny,,2213.0,,111.0,,,Contingent,,NJMLS,21013843,Y,Y,40.7541911,-74.1533792
+300,MLS Listing,2025,Multi-Family (2-4 Unit),267 W 6th Ave,Newark,NJ,7107,420000.0,7.0,3.5,Newark,,2500.0,,111.0,,,Active,,NJMLS,21013850,Y,Y,40.7573021,-74.1890641
+302,MLS Listing,2025,Multi-Family (2-4 Unit),204 Chestnut St,Newark,NJ,7105,319900.0,4.0,2.0,Newark,,1503.0,,194.0,,,Active,,NJMLS,21002568,Y,Y,40.7241084,-74.1669935
+303,PAST SALE,July-16-2021,Single Family Residential,135 TERHUNE Ave,JERSEY CITY,NJ,7305,490000.0,4.0,2.5,Jersey City (Greenville),1240.0,,,19.0,395.0,,Sold,,HCMLS,210008388,Y,Y,40.7051511,-74.0965698
+304,PAST SALE,May-27-2021,Multi-Family (2-4 Unit),179 Schuyler Ave,Newark,NJ,7112,297000.0,5.0,3.0,Newark,,3842.0,,69.0,,,Sold,,NJMLS,21004740,Y,Y,40.7121338,-74.213324
+305,PAST SALE,June-18-2021,Single Family Residential,200 19TH St,Union City,NJ,7087,335000.0,3.0,3.5,Union City,,,,47.0,,,Sold,,HCMLS,210008666,Y,Y,40.7626912,-74.0310094
+306,PAST SALE,May-28-2021,Multi-Family (2-4 Unit),706 OCEAN Ave,JERSEY CITY,NJ,7305,675000.0,8.0,5.0,Jersey City (Greenville),,,,68.0,,,Sold,,HCMLS,210008546,Y,Y,40.7102173,-74.0758398
+307,PAST SALE,July-30-2021,Multi-Family (2-4 Unit),101 E 27TH St,Bayonne,NJ,7002,515000.0,6.0,2.0,Bayonne,,,,5.0,,,Sold,,HCMLS,210008222,Y,Y,40.6650117,-74.1099794
+308,PAST SALE,May-19-2004,Single Family Residential,11 Adler Pl E,E. New York,NY,11208,499000.0,4.0,2.0,E. New York,,1586.0,1920.0,116.0,,,Pending,,OneKey,3302244,Y,Y,40.6850415,-73.8721411
+309,MLS Listing,2025,Multi-Family (2-4 Unit),34-36 N 6th St,Newark,NJ,7107,499000.0,7.0,3.0,Newark,,5001.0,,183.0,,,Contingent,,NJMLS,21003786,Y,Y,40.7496768,-74.1923699
+310,PAST SALE,August-2-2021,Multi-Family (2-4 Unit),1209 86th St,North Bergen,NJ,7047,480000.0,4.0,2.0,North Bergen,,2500.0,,2.0,,,Sold,,NJMLS,21012940,Y,Y,40.808768,-74.009472
+311,MLS Listing,2025,Multi-Family (2-4 Unit),267 6th Ave W #2,Newark City,NJ,07107-1734,420000.0,7.0,3.5,Newark City,,2613.0,1883.0,118.0,,,Active,,GSMLS,3703656,Y,Y,40.7573021,-74.1890641
+312,MLS Listing,2025,Multi-Family (2-4 Unit),253 LEXINGTON Ave,JERSEY CITY,NJ,7304,550000.0,6.0,3.0,Jersey City (West Bergen),,,,15.0,,,Active,,HCMLS,210017385,Y,Y,40.721789,-74.087986
+316,PAST SALE,June-11-2021,Multi-Family (2-4 Unit),38 Wakeman Ave,Newark,NJ,7104,470000.0,4.0,4.0,Newark,,3685.0,,54.0,,,Sold,,NJMLS,21010213,Y,Y,40.7630656,-74.1687456
+318,MLS Listing,2025,Multi-Family (2-4 Unit),191 Hillside Ter,Irvington,NJ,7111,320000.0,6.0,3.0,Irvington,,6800.0,,133.0,,,Active,,NJMLS,21010500,Y,Y,40.7297104,-74.2384519
+319,MLS Listing,2025,Multi-Family (2-4 Unit),146 Garside St,Newark,NJ,7104,485000.0,11.0,4.0,Newark,,2500.0,,128.0,,,Contingent,,NJMLS,21011145,Y,Y,40.756417,-74.1753046
+321,MLS Listing,2025,Multi-Family (2-4 Unit),107-22 170th St,Jamaica,NY,11433,524700.0,6.0,4.0,Jamaica,5360.0,5360.0,1930.0,210.0,98.0,,Active,,OneKey,3278894,Y,Y,40.6992515,-73.7867998
+323,MLS Listing,2025,Multi-Family (2-4 Unit),119 AVENUE C,Bayonne,NJ,7002,449900.0,6.0,2.5,Bayonne,,,,34.0,,,Active,,HCMLS,210015833,Y,Y,40.6502255,-74.1305015
+324,PAST SALE,May-28-2021,Townhouse,1816 E Wishart St,Philadelphia,PA,19134,75000.0,3.0,1.0,PHILA (NORTH),1096.0,798.0,1920.0,68.0,68.0,,Sold,,BRIGHT MLS,PAPH997842,Y,Y,39.9956246,-75.1137063
+325,PAST SALE,June-10-2021,Multi-Family (2-4 Unit),80 Cutler St,Newark,NJ,7104,515000.0,6.0,5.0,Newark,,3202.0,,55.0,,,Sold,,NJMLS,20048643,Y,Y,40.7540935,-74.175534
+327,MLS Listing,2025,Multi-Family (2-4 Unit),173-11 110th Ave,Jamaica,NY,11433,453200.0,6.0,4.0,Jamaica,2168.0,4802.0,2005.0,124.0,209.0,,Active,,OneKey,3299867,Y,Y,40.697176,-73.780368
+328,MLS Listing,2025,Multi-Family (2-4 Unit),19 Reynolds Ave,Harrison,NJ,7029,425000.0,6.0,3.0,Harrison,,2374.0,,126.0,,,Contingent,,NJMLS,21011529,Y,Y,40.7482444,-74.1636851
+330,PAST SALE,January-5-2004,Multi-Family (2-4 Unit),35 EXETER Rd,JERSEY CITY,NJ,,295000.0,4.0,2.5,Jersey City (West Bergen),,,,6421.0,,,Sold,,HCMLS,307935,Y,Y,40.6983564,-74.1034755
+332,PAST SALE,June-30-2021,Multi-Family (2-4 Unit),185 New York Ave,Newark,NJ,7105,455000.0,6.0,3.0,Newark,,2762.0,,35.0,,,Sold,,NJMLS,21008330,Y,Y,40.726094,-74.161672
+333,MLS Listing,2025,Multi-Family (2-4 Unit),385 21st St,Irvington,NJ,7111,389000.0,5.0,4.0,Irvington,,7449.0,,137.0,,,Contingent,,NJMLS,21010024,Y,Y,40.730397,-74.215615
+334,PAST SALE,May-17-2021,Single Family Residential,341-343 Parker St,Newark,NJ,7104,471000.0,6.0,3.0,Newark,,5001.0,,79.0,,,Sold,,NJMLS,21008633,Y,Y,40.7648706,-74.1744086
+336,PAST SALE,June-16-2021,Single Family Residential,57-59 Shephard Ave,Newark,NJ,7112,270000.0,6.0,1.5,Newark,,5001.0,,49.0,,,Sold,,NJMLS,21012045,Y,Y,40.7092601,-74.2045001
+337,MLS Listing,2025,Multi-Family (2-4 Unit),92 Peabody Pl,Newark,NJ,7104,289900.0,8.0,3.0,Newark,,2500.0,,147.0,,,Contingent,,NJMLS,21008348,Y,Y,40.768581,-74.1611719
+340,PAST SALE,June-11-2021,Multi-Family (2-4 Unit),408 59th St,West New York,NJ,7093,485000.0,5.0,2.0,West New York,,2500.0,,54.0,,,Sold,,NJMLS,21009077,Y,Y,40.7875485,-74.0149788
+342,MLS Listing,2025,Single Family Residential,65 S 7th St,Newark,NJ,7107,300000.0,8.0,3.0,Newark,,2500.0,,154.0,,,Active,,NJMLS,21007322,Y,Y,40.7469424,-74.1947319
+343,PAST SALE,March-15-2008,Single Family Residential,1206 12TH St,North Bergen,NJ,07047-1834,975.0,3.0,1.0,North Bergen,1000.0,,,4890.0,1.0,,Sold,,HCMLS,70016373,Y,Y,40.7622524,-74.0436634
+344,PAST SALE,March-31-2021,Multi-Family (2-4 Unit),19 LONG St,JERSEY CITY,NJ,7305,430000.0,5.0,2.0,Jersey City (Greenville),,,,126.0,,,Sold,,HCMLS,210004676,Y,Y,40.6995695,-74.0915796
+345,MLS Listing,2025,Single Family Residential,44 Watson Ave,East Orange,NJ,7018,379900.0,7.0,3.5,East Orange,,4800.0,,153.0,,,Contingent,,NJMLS,21007586,Y,Y,40.7517886,-74.2125903
+347,MLS Listing,2025,Multi-Family (2-4 Unit),908 Bergen St,Newark,NJ,7112,499000.0,11.0,4.5,Newark,,2500.0,,35.0,,,Contingent,,NJMLS,21026444,Y,Y,40.7127774,-74.2041065
+348,PAST SALE,March-29-2021,Townhouse,380 Littleton Ave,Newark,NJ,7103,185000.0,3.0,1.5,Newark,,,,128.0,,,Sold,,NJMLS,21005932,Y,Y,40.7336119,-74.1981108
+349,PAST SALE,2025,Single Family Residential,435 Rose Ave,Jersey City,NJ,7305,,3.0,2.5,,1594.0,915.0,2014.0,,,,,,,,Y,Y,40.7096619,-74.0779454
+350,MLS Listing,2025,Multi-Family (2-4 Unit),473 20th St,Irvington,NJ,7111,390000.0,6.0,2.0,Irvington,,2496.0,,13.0,,,Active,,NJMLS,21029986,Y,Y,40.7407826,-74.210544
+351,PAST SALE,July-29-2021,Multi-Family (2-4 Unit),313 7th Ave,Newark,NJ,7107,319900.0,5.0,3.0,Newark,,2500.0,,6.0,,,Sold,,NJMLS,21026750,Y,Y,40.7538852,-74.1861747
+352,PAST SALE,May-26-2021,Multi-Family (2-4 Unit),38 N 6th St,Newark,NJ,7107,364000.0,6.0,3.0,Newark,,2500.0,,70.0,,,Sold,,NJMLS,21006330,Y,Y,40.7498667,-74.1922286
+353,MLS Listing,2025,Multi-Family (2-4 Unit),366 Chadwick Ave,Newark,NJ,7112,480000.0,10.0,5.0,Newark,,3872.0,,70.0,,,Active,,NJMLS,21020674,Y,Y,40.7134986,-74.2045651
+354,PAST SALE,July-4-2021,Single Family Residential,134 Alexander St,Newark,NJ,7106,360000.0,7.0,2.0,Newark,,4373.0,,31.0,,,Sold,,NJMLS,21004346,Y,Y,40.7413242,-74.2264386
+356,PAST SALE,June-21-2021,Multi-Family (2-4 Unit),98-100 N 9th St,Newark,NJ,7107,445000.0,7.0,4.0,Newark,,6499.0,,44.0,,,Sold,,NJMLS,21006681,Y,Y,40.759088,-74.1913336
+357,PAST SALE,May-28-2021,Single Family Residential,856 S 13th St,Newark City,NJ,07108-1316,230000.0,6.0,3.0,Newark City,,4791.0,1907.0,68.0,,,Sold,,GSMLS,3693506,Y,Y,40.724121,-74.2094994
+358,PAST SALE,May-3-2021,Multi-Family (2-4 Unit),53 N 14th St,East Orange,NJ,7017,400000.0,6.0,3.0,East Orange,,2300.0,,93.0,,,Sold,,NJMLS,21005953,Y,Y,40.757467,-74.1963103
+360,PAST SALE,April-30-2021,Multi-Family (2-4 Unit),414 S 16th St,Newark,NJ,7103,520000.0,6.0,4.5,Newark,,2374.0,,96.0,,,Sold,,NJMLS,21008216,Y,Y,40.741673,-74.205684
+361,PAST SALE,2025,Single Family Residential,162 19th Ave,Irvington,NJ,7111,180000.0,9.0,3.0,,3645.0,2496.0,1913.0,,49.0,,,,,,Y,Y,40.7334692,-74.2163964
+362,PAST SALE,April-7-2021,Single Family Residential,174A UNION St,JERSEY CITY,NJ,7304,325000.0,3.0,2.5,Jersey City (Greenville),,,,119.0,,,Sold,,HCMLS,210004006,Y,Y,40.715023,-74.077136
+365,PAST SALE,June-4-2021,Single Family Residential,58 Laurel Ave,Staten Island,NY,10304,315000.0,3.0,2.0,Stapleton,1116.0,3050.0,1901.0,61.0,282.0,,Sold,,SIBORMLS,1142934,Y,Y,40.619504,-74.083749
+367,PAST SALE,July-16-2021,Single Family Residential,2339 Hoffman Ave,Elmont,NY,11003,679000.0,4.0,4.5,Elmont,,10695.0,1952.0,639.0,,,Pending,,OneKey,3177813,Y,Y,40.7010421,-73.7262944
+368,PAST SALE,March-31-2021,Townhouse,24 N Peach St,Philadelphia,PA,19139,70000.0,2.0,1.0,HADDINGTON,870.0,788.0,1925.0,126.0,80.0,,Sold,,BRIGHT MLS,PAPH988726,Y,Y,39.9609644,-75.2274961
+371,MLS Listing,2025,Multi-Family (2-4 Unit),918 21ST St,Union City,NJ,7087,435000.0,4.0,2.5,Union City,,,,170.0,,,Active,,HCMLS,210003728,Y,Y,40.7683872,-74.0392727
+373,MLS Listing,2025,Multi-Family (2-4 Unit),164-166 Ridge St,Newark,NJ,7104,590000.0,8.0,5.5,Newark,,5118.0,,173.0,,,Contingent,,NJMLS,21005031,Y,Y,40.7584501,-74.1774575
+374,MLS Listing,2025,Multi-Family (2-4 Unit),447 S 17th St,Newark,NJ,7103,319000.0,5.0,2.0,Newark,,2500.0,,170.0,,,Contingent,,NJMLS,21005217,Y,Y,40.741066,-74.2074542
+375,PAST SALE,June-30-2021,Multi-Family (2-4 Unit),164 Clendenny Ave,Jersey City,NJ,7304,490000.0,7.0,3.0,Jersey City,,2500.0,,35.0,,,Sold,,NJMLS,21005256,Y,Y,40.7198896,-74.0845014
+376,PAST SALE,July-1-2021,Multi-Family (2-4 Unit),1426 43RD St,North Bergen,NJ,7047,565000.0,7.0,3.0,North Bergen,,,,34.0,,,Sold,,HCMLS,210003790,Y,Y,40.7813051,-74.0306204
+377,PAST SALE,July-15-2021,Multi-Family (2-4 Unit),61-65 Dewey St,Newark,NJ,7112,335000.0,6.0,2.0,Newark,,4950.0,,20.0,,,Sold,,NJMLS,20046474,Y,Y,40.7172493,-74.2150976
+378,MLS Listing,2025,Multi-Family (2-4 Unit),77 Cutler St,Newark,NJ,7104,375000.0,6.0,3.0,Newark,,2247.0,,147.0,,,Contingent,,NJMLS,21008341,Y,Y,40.7539648,-74.175167
+382,PAST SALE,April-30-2017,Multi-Family (2-4 Unit),1263 KENNEDY Blvd,Bayonne,NJ,7002,130199.0,3.0,2.0,Bayonne,,,,1557.0,,,Sold,,HCMLS,160011519,Y,Y,40.6905468,-74.1051043
+383,PAST SALE,April-16-2021,Multi-Family (2-4 Unit),48 11th Ave,Newark,NJ,7107,399000.0,9.0,3.0,Newark,,2500.0,,110.0,,,Sold,,NJMLS,20006679,Y,Y,40.7458296,-74.1945675
+384,PAST SALE,March-18-2021,Multi-Family (2-4 Unit),3705 KENNEDY Blvd,Union City,NJ,7087,316000.0,3.0,2.0,Union City,,,,139.0,,,Sold,,HCMLS,210003465,Y,Y,40.776273,-74.029891
+385,PAST SALE,April-2-2018,Multi-Family (2-4 Unit),83 DWIGHT St,JERSEY CITY,NJ,7305,490000.0,6.0,4.0,Jersey City (Bergen-Lafayette),,,,1220.0,,,Sold,,HCMLS,180000408,Y,Y,40.702439,-74.082486
+386,PAST SALE,June-9-2021,Multi-Family (2-4 Unit),31 Marne St,Newark,NJ,7105,390000.0,4.0,2.0,Newark,,1999.0,,56.0,,,Sold,,NJMLS,21010901,Y,Y,40.724574,-74.1504778
+387,PAST SALE,May-28-2021,Multi-Family (2-4 Unit),338 Elm St,Newark,NJ,7105,475000.0,4.0,2.0,Newark,,2335.0,,68.0,,,Sold,,NJMLS,21004072,Y,Y,40.7254158,-74.1558563
+388,MLS Listing,2025,Multi-Family (2-4 Unit),231-233 Renner Ave,Newark,NJ,7112,499000.0,10.0,4.0,Newark,,4099.0,,14.0,,,Active,,NJMLS,21029718,Y,Y,40.7129084,-74.2089222
+390,PAST SALE,April-30-2021,Single Family Residential,69 LINDEN Ave,JERSEY CITY,NJ,7305,410000.0,5.0,2.0,Jersey City (Greenville),,,,96.0,,,Sold,,HCMLS,210003525,Y,Y,40.6939139,-74.0906619
+391,PAST SALE,May-7-2015,Single Family Residential,36 Dongan St,Staten Island,NY,10310,514000.0,4.0,2.0,West Brighton,1514.0,3025.0,1901.0,74.0,339.0,,Pending,,SIBORMLS,1146391,Y,Y,40.6363716,-74.1247071
+392,PAST SALE,March-4-2021,Single Family Residential,42 Shaughnessy Ln,Staten Island,NY,10305,399850.0,4.0,2.0,Rosebank,1488.0,6850.0,1915.0,153.0,269.0,,Sold,,SIBORMLS,1142618,Y,Y,40.613821,-74.0747384
+393,MLS Listing,2025,Multi-Family (2-4 Unit),62 Hobson St,Newark,NJ,7112,439000.0,6.0,2.0,Newark,,2574.0,,11.0,,,Active,,NJMLS,21030232,Y,Y,40.717369,-74.2154452
+394,PAST SALE,March-30-2021,Townhouse,114 Ashby Rd,Upper Darby,PA,19082,173000.0,3.0,1.0,STONEHURST,1392.0,2526.0,1920.0,127.0,124.0,,Sold,,BRIGHT MLS,PADE539402,Y,Y,39.9589966,-75.2625467
+395,MLS Listing,2025,Multi-Family (2-4 Unit),813 Mount Prospect Ave,Newark,NJ,7104,350000.0,5.0,3.0,Newark,,2400.0,,28.0,,,Contingent,,NJMLS,21027480,Y,Y,40.7801097,-74.1631038
+396,MLS Listing,2025,Multi-Family (2-4 Unit),321 Myrtle Ave,Irvington,NJ,7111,349000.0,6.0,3.0,Irvington,,4687.0,,183.0,,,Contingent,,NJMLS,21003821,Y,Y,40.7364219,-74.220661
+397,PAST SALE,June-22-2021,Single Family Residential,543 55TH St,West New York,NJ,7093,430000.0,4.0,3.0,West New York,,,,43.0,,,Sold,,HCMLS,202027025,Y,Y,40.7861555,-74.0202099
+398,PAST SALE,June-8-2021,Townhouse,138 Powell Ln,Upper Darby,PA,19082,140000.0,4.0,2.0,BARRINGTON,1414.0,2614.0,1925.0,57.0,99.0,,Sold,,BRIGHT MLS,PADE545080,Y,Y,39.9588413,-75.2528023
+400,PAST SALE,February-26-2021,Townhouse,2728 N Hope St,Philadelphia,PA,19133,49000.0,2.0,1.0,WEST KENSINGTON,828.0,600.0,1935.0,159.0,59.0,,Sold,,BRIGHT MLS,PAPH986158,Y,Y,39.9919,-75.1313605
+401,PAST SALE,July-15-2021,Multi-Family (2-4 Unit),331 W Runyon St,Newark,NJ,7108,250000.0,4.0,2.0,Newark,,3446.0,,20.0,,,Sold,,NJMLS,21004421,Y,Y,40.7198652,-74.2102974
+403,PAST SALE,April-12-2021,Multi-Family (2-4 Unit),148 4th Ave,Newark,NJ,7104,420000.0,6.0,3.0,Newark,,1625.0,,114.0,,,Sold,,NJMLS,21004354,Y,Y,40.7575692,-74.1738828
+404,MLS Listing,2025,Single Family Residential,193 GARSIDE St,Newark,NJ,7104,320000.0,6.0,2.0,Newark,,,,22.0,,,Active,,HCMLS,210016792,Y,Y,40.7581854,-74.1738025
+406,PAST SALE,March-24-2021,Single Family Residential,1110 61ST St,North Bergen,NJ,7047,307000.0,4.0,1.0,North Bergen,,,,133.0,,,Sold,,HCMLS,210003117,Y,Y,40.7928583,-74.0216235
+408,PAST SALE,July-9-2021,Multi-Family (2-4 Unit),27 Hudson St,Newark,NJ,7103,255000.0,4.0,2.0,Newark,,1908.0,,26.0,,,Sold,,NJMLS,21013437,Y,Y,40.7489618,-74.1832852
+410,MLS Listing,2025,Multi-Family (2-4 Unit),64 New York Ave,Newark,NJ,7105,445000.0,6.0,2.0,Newark,,2749.0,,183.0,,,Contingent,,NJMLS,21003810,Y,Y,40.727335,-74.167404
+411,PAST SALE,July-6-2021,Multi-Family (2-4 Unit),236 DANFORTH Ave,JERSEY CITY,NJ,7305,385000.0,5.0,2.0,Jersey City (Greenville),,,,29.0,,,Sold,,HCMLS,210000946,Y,Y,40.6997188,-74.0937363
+412,PAST SALE,April-28-2021,Single Family Residential,63-65 Stengel Ave,Newark,NJ,7112,280000.0,5.0,2.0,Newark,,5001.0,,98.0,,,Sold,,NJMLS,20051839,Y,Y,40.7078174,-74.206832
+413,PAST SALE,March-8-2021,Townhouse,2831 W Clearfield St,Philadelphia,PA,19132,83000.0,3.0,1.0,ALLEGHENY WEST,1400.0,1120.0,1925.0,149.0,59.0,,Sold,,BRIGHT MLS,PAPH985454,Y,Y,40.003208,-75.1764819
+414,PAST SALE,June-1-2021,Multi-Family (2-4 Unit),306 S 10th St,Newark,NJ,7103,320000.0,5.0,3.0,Newark,,3498.0,,64.0,,,Sold,,NJMLS,21004180,Y,Y,40.7422352,-74.1995205
+417,PAST SALE,April-16-2021,Single Family Residential,355-359 E 40th St,Paterson,NJ,7504,345000.0,3.0,3.0,Paterson,,7501.0,,110.0,,,Sold,,NJMLS,21002406,Y,Y,40.910457,-74.13653
+418,PAST SALE,May-12-2021,Single Family Residential,225 74TH St,North Bergen,NJ,7047,510000.0,6.0,3.0,North Bergen,,,,84.0,,,Sold,,HCMLS,202028800,Y,Y,40.7962805,-74.0047416
+419,MLS Listing,2025,Multi-Family (2-4 Unit),317 Summer Ave,Newark,NJ,7104,561000.0,8.0,5.0,Newark,,2940.0,,42.0,,,Active,,NJMLS,21025423,Y,Y,40.762583,-74.1694336
+420,PAST SALE,March-29-2021,Multi-Family (2-4 Unit),442 S 19th St,Newark,NJ,7103,325000.0,7.0,2.0,Newark,,2500.0,,128.0,,,Sold,,NJMLS,21002993,Y,Y,40.7417655,-74.208658
+421,PAST SALE,May-27-2021,Multi-Family (2-4 Unit),409 16TH St,Union City,NJ,7087,495000.0,6.0,3.5,Union City,,,,69.0,,,Sold,,HCMLS,210009095,Y,Y,40.7618933,-74.0351761
+423,MLS Listing,2025,Multi-Family (2-4 Unit),530 Hawthorne Ave,Newark,NJ,7112,365000.0,10.0,4.0,Newark,,3202.0,,195.0,,,Contingent,,NJMLS,21002466,Y,Y,40.7199195,-74.2159378
+424,PAST SALE,April-9-2021,Multi-Family (2-4 Unit),33 Armstrong Ave,Jersey City,NJ,7305,280000.0,4.0,3.0,Jersey City,,2749.0,,117.0,,,Sold,,NJMLS,21002892,Y,Y,40.6997053,-74.0831756
+426,PAST SALE,July-12-2021,Multi-Family (2-4 Unit),18 N 6th St,Newark,NJ,7107,313000.0,4.0,2.0,Newark,,1712.0,,23.0,,,Sold,,NJMLS,20045587,Y,Y,40.7491521,-74.1926899
+427,MLS Listing,2025,Multi-Family (2-4 Unit),319 VAN NOSTRAND Ave,JERSEY CITY,NJ,7305,750000.0,7.0,3.0,Jersey City (West Bergen),,,,52.0,,,Active,,HCMLS,210014312,Y,Y,40.705856,-74.093277
+429,PAST SALE,April-20-2021,Multi-Family (2-4 Unit),232 Sherman Ave,Newark,NJ,7114,255000.0,6.0,2.0,Newark,,2500.0,,106.0,,,Sold,,NJMLS,20051491,Y,Y,40.716645,-74.1887315
+431,PAST SALE,June-28-2021,Multi-Family (2-4 Unit),165 WEGMAN Pkwy,JERSEY CITY,NJ,7305,435000.0,7.0,3.0,Jersey City (Greenville),,,,37.0,,,Sold,,HCMLS,210002170,Y,Y,40.705188,-74.083684
+432,MLS Listing,2025,Multi-Family (2-4 Unit),169 Goodwin Ave,Newark,NJ,7112,359900.0,8.0,3.0,Newark,,4082.0,,225.0,,,Contingent,,NJMLS,20052079,Y,Y,40.7127518,-74.2138743
+433,PAST SALE,May-19-2021,Single Family Residential,12 E 5TH St,Bayonne,NJ,7002,330000.0,4.0,2.0,Bayonne,,,,77.0,,,Sold,,HCMLS,210002016,Y,Y,40.6512508,-74.1277007
+434,MLS Listing,2025,Multi-Family (2-4 Unit),36-38 Montrose Ter,Irvington,NJ,7111,369000.0,6.0,2.0,Irvington,,4500.0,,204.0,,,Contingent,,NJMLS,21001246,Y,Y,40.7374106,-74.2162987
+437,PAST SALE,April-23-2021,Multi-Family (2-4 Unit),303 S 19th St,Newark,NJ,7103,320000.0,5.0,3.0,Newark,,2500.0,,103.0,,,Sold,,NJMLS,21000337,Y,Y,40.7465129,-74.2069039
+439,PAST SALE,2025,Townhouse,2108 E Cambria St,Philadelphia,PA,19134,95000.0,3.0,1.0,,1190.0,1099.0,1920.0,,80.0,,,,,,Y,Y,39.9883493,-75.1167169
+440,PAST SALE,February-26-2021,Townhouse,138 Lafayette Ave,Darby,PA,19023,85000.0,3.0,1.0,Darby,1182.0,1699.0,1930.0,159.0,72.0,,Sold,,BRIGHT MLS,PADE538146,Y,Y,39.9085179,-75.2818452
+443,PAST SALE,July-20-2021,Multi-Family (2-4 Unit),1458 76TH St,North Bergen,NJ,7047,515000.0,6.0,2.0,North Bergen,,,,15.0,,,Sold,,HCMLS,210001675,Y,Y,40.8037291,-74.0161379
+444,PAST SALE,July-30-2021,Multi-Family (2-4 Unit),186 S 9th St,Newark,NJ,7107,410000.0,8.0,3.0,Newark,,2801.0,,5.0,,,Sold,,NJMLS,21016808,Y,Y,40.745217,-74.1970899
+445,PAST SALE,March-8-2021,Single Family Residential,18 PATERSON St,JERSEY CITY,NJ,7307,550000.0,5.0,3.0,Jersey City (Heights),,,,149.0,,,Sold,,HCMLS,210001537,Y,Y,40.7508092,-74.0470755
+446,PAST SALE,April-19-2021,Multi-Family (2-4 Unit),85 ROOSEVELT Ave,JERSEY CITY,NJ,07304-1043,450000.0,4.0,2.0,Jersey City (West Bergen),,,,107.0,,,Sold,,HCMLS,210001564,Y,Y,40.721381,-74.085291
+447,PAST SALE,April-23-2021,Single Family Residential,729 FOREST St,Kearny,NJ,7032,310000.0,2.0,1.0,Kearny,,,,103.0,,,Sold,,HCMLS,202026626,Y,Y,40.777118,-74.1326763
+448,PAST SALE,September-17-2019,Townhouse,32 N 56th St,Philadelphia,PA,19139,96000.0,4.0,2.5,HADDINGTON,1313.0,1296.0,1925.0,527.0,73.0,,Pending,,BRIGHT MLS,PAPH874562,Y,Y,39.9618707,-75.2329222
+449,MLS Listing,2025,Single Family Residential,835 S 11th St,Newark,NJ,7108,408000.0,5.0,2.0,,3200.0,,1914.0,200.0,128.0,,Contingent,,MOMLS,22101364,Y,Y,40.7245307,-74.2079861
+451,PAST SALE,July-7-2021,Single Family Residential,529 CLINTON Pl,Newark City,NJ,07112-1771,335000.0,3.0,2.0,Newark City,,3920.0,1952.0,28.0,,,Sold,,GSMLS,3687480,Y,Y,40.7064532,-74.2204376
+452,PAST SALE,March-2-2021,Single Family Residential,510 THOMPSON Ave,Roselle Boro,NJ,07203-1537,336500.0,3.0,2.0,Roselle Boro,,4791.0,1930.0,155.0,,,Sold,,GSMLS,3664302,Y,Y,40.6570397,-74.2483095
+455,PAST SALE,April-9-2021,Multi-Family (2-4 Unit),131 11th Ave,Newark,NJ,7107,385000.0,6.0,3.0,Newark,,1873.0,,117.0,,,Sold,,NJMLS,21001477,Y,Y,40.7474703,-74.1989094
+456,PAST SALE,April-29-2021,Single Family Residential,449-453 Parker St,Newark,NJ,7104,750000.0,7.0,3.5,Newark,,5001.0,,97.0,,,Sold,,NJMLS,20049438,Y,Y,40.7685613,-74.1724829
+457,PAST SALE,March-15-2013,Multi-Family (2-4 Unit),215 CATOR Ave,JERSEY CITY,NJ,7305,132000.0,2.0,2.0,Jersey City (West Bergen),,,,3064.0,,,Sold,,HCMLS,120001526,Y,Y,40.6993335,-74.092853
+458,PAST SALE,June-23-2021,Single Family Residential,299 Elm St,Newark,NJ,7105,315000.0,3.0,1.5,Newark,,1498.0,,42.0,,,Sold,,NJMLS,20039054,Y,Y,40.726297,-74.157392
+459,PAST SALE,March-18-2021,Single Family Residential,471 Devon St,Kearny,NJ,7032,356000.0,3.0,1.5,Kearny,,3350.0,,139.0,,,Sold,,NJMLS,21001678,Y,Y,40.7660434,-74.1453973
+460,PAST SALE,March-18-2021,Single Family Residential,268 WINFIELD Ave,JERSEY CITY,NJ,7305,340000.0,3.0,2.0,Jersey City (West Bergen),,,,139.0,,,Sold,,HCMLS,202021863,Y,Y,40.697782,-74.0984706
+463,MLS Listing,2025,Multi-Family (2-4 Unit),199 Delaware Ave,Jersey City,NJ,7306,470000.0,5.0,2.0,Jersey City,,1999.0,,42.0,,,Contingent,,NJMLS,21025448,Y,Y,40.727812,-74.077341
+464,PAST SALE,February-26-2021,Single Family Residential,16 Howell Pl,Kearny,NJ,7032,310000.0,4.0,2.0,Kearny,,6468.0,,159.0,,,Sold,,NJMLS,21001247,Y,Y,40.772168,-74.1363329
+465,MLS Listing,2025,Multi-Family (2-4 Unit),99 Cutler St,Newark,NJ,7104,330000.0,5.0,3.0,Newark,,1742.0,,51.0,,,Active,,NJMLS,21023879,Y,Y,40.7546793,-74.1747542
+467,PAST SALE,April-28-2021,Multi-Family (2-4 Unit),285 N 5th St,Newark,NJ,7107,370000.0,9.0,3.5,Newark,,2500.0,,98.0,,,Sold,,NJMLS,20038039,Y,Y,40.757734,-74.1863581
+468,PAST SALE,April-5-2021,Single Family Residential,78 Columbia Ave,Newark,NJ,7106,322500.0,4.0,3.0,Newark,,3759.0,,121.0,,,Sold,,NJMLS,21001435,Y,Y,40.7424236,-74.2196521
+469,PAST SALE,2025,Townhouse,3122 E St,Philadelphia,PA,19134,,3.0,1.0,,900.0,795.0,1920.0,,,,,,,,Y,Y,39.9962164,-75.1197274
+470,PAST SALE,February-12-2021,Townhouse,1810 S 57th St,Philadelphia,PA,19143,95000.0,4.0,1.0,KINGSESSING,1306.0,1163.0,1925.0,173.0,73.0,,Sold,,BRIGHT MLS,PAPH978064,Y,Y,39.9373198,-75.2282473
+471,PAST SALE,February-17-2021,Multi-Family (2-4 Unit),207 WILKINSON Ave #2,JERSEY CITY,NJ,7305,429000.0,6.0,2.0,Jersey City (Greenville),,,,168.0,,,Sold,,HCMLS,210000931,Y,Y,40.708023,-74.083437
+472,PAST SALE,December-22-2006,Single Family Residential,687 E 232nd St,BRONX,NY,10466,549000.0,5.0,2.0,BRONX,1951.0,3324.0,1910.0,205.0,281.0,,Pending,,OneKey,H6090207,Y,Y,40.893144,-73.858222
+473,PAST SALE,April-9-2021,Townhouse,2519 S Felton St,Philadelphia,PA,19142,75000.0,3.0,1.5,Philadelphia,1288.0,1020.0,1925.0,117.0,58.0,,Sold,,BRIGHT MLS,PAPH992976,Y,Y,39.9242859,-75.2262673
+474,PAST SALE,April-5-2021,Condo/Co-op,776-784 N 6th St Unit C4,Newark,NJ,7107,236500.0,3.0,2.0,Newark,,,,121.0,,,Sold,,NJMLS,21001070,Y,Y,40.7762617,-74.1781467
+477,PAST SALE,March-3-2016,Townhouse,5212 W Thompson St,Philadelphia,PA,19131,52000.0,4.0,2.0,WEST PHILADELPHIA,1716.0,1920.0,1925.0,1980.0,30.0,,Sold,,BRIGHT MLS,1002726330,Y,Y,39.972711,-75.2266091
+478,PAST SALE,2025,Townhouse,303 E Indiana Ave,Philadelphia,PA,19134,,3.0,1.0,,1120.0,854.0,1920.0,,,,,,,,Y,Y,39.9950801,-75.1258851
+480,PAST SALE,April-26-2021,Multi-Family (2-4 Unit),317 South St,Elizabeth,NJ,7202,345000.0,6.0,2.0,,,3049.0,1900.0,100.0,,,Sold,,MOMLS,22043081,Y,Y,40.6584623,-74.2080564
+481,PAST SALE,April-5-2021,Single Family Residential,21 White Ter,Newark,NJ,7108,348000.0,5.0,2.5,Newark,,3598.0,,121.0,,,Sold,,NJMLS,20025589,Y,Y,40.7206885,-74.21204
+482,PAST SALE,April-14-2021,Townhouse,25 N Conestoga St,Philadelphia,PA,19139,82000.0,3.0,1.0,WEST PHILADELPHIA,740.0,,1925.0,112.0,111.0,,Sold,,BRIGHT MLS,PAPH976624,Y,Y,39.9612196,-75.2294409
+483,PAST SALE,February-23-2021,Townhouse,141 N Wanamaker St,Philadelphia,PA,19139,64000.0,3.0,1.0,HADDINGTON,1224.0,836.0,1925.0,162.0,52.0,,Sold,,BRIGHT MLS,PAPH943656,Y,Y,39.9640057,-75.2368193
+484,PAST SALE,July-15-2021,Multi-Family (2-4 Unit),16 E BIDWELL Ave,JERSEY CITY,NJ,07305-4217,540000.0,5.0,2.0,Jersey City (Greenville),,,,20.0,,,Sold,,HCMLS,210002939,Y,Y,40.7014914,-74.0763908
+486,MLS Listing,2025,Multi-Family (2-4 Unit),262 S 8th St,Newark,NJ,7103,475000.0,6.0,3.0,Newark,,2500.0,,133.0,,,Contingent,,NJMLS,21010646,Y,Y,40.741159,-74.197987
+487,PAST SALE,2025,Townhouse,5937 Irving St,Philadelphia,PA,19139,86500.0,3.0,1.0,,934.0,734.0,1925.0,,93.0,,,,,,Y,Y,39.957386,-75.2408104
+489,PAST SALE,April-12-2021,Single Family Residential,723 COLONIAL ARMS Rd,Union Twp.,NJ,07083-7607,405000.0,4.0,2.0,Union Twp.,,5662.0,1956.0,114.0,,,Sold,,GSMLS,3683857,Y,Y,40.6803269,-74.2483095
+490,PAST SALE,May-21-2021,Single Family Residential,580 AVENUE E,Bayonne,NJ,7002,340000.0,3.0,1.0,Bayonne,,,,75.0,,,Sold,,HCMLS,202029319,Y,Y,40.67334,-74.106644
+493,PAST SALE,April-8-2021,Townhouse,2633 N Bancroft St,Philadelphia,PA,19132,58000.0,3.0,1.0,Philadelphia,1036.0,674.0,1915.0,118.0,56.0,,Sold,,BRIGHT MLS,PAPH931576,Y,Y,39.993505,-75.1584257
+494,PAST SALE,May-26-2021,Single Family Residential,119 Walnut St,Darby,PA,19023,125000.0,5.0,1.5,CYNWYD,1843.0,4443.0,1900.0,70.0,68.0,,Sold,,BRIGHT MLS,PADE536980,Y,Y,39.9146331,-75.2505267
+495,PAST SALE,April-30-2021,Multi-Family (2-4 Unit),119 S 6th St,Newark,NJ,7107,256000.0,6.0,3.0,Newark,,3459.0,,96.0,,,Sold,,NJMLS,20049991,Y,Y,40.7439303,-74.195072
+496,PAST SALE,March-31-2021,Single Family Residential,314-316 Parker St,Newark,NJ,7104,331000.0,6.0,3.5,Newark,3382.0,4791.0,1907.0,126.0,98.0,,Sold,,BRIGHT MLS,NJES100228,Y,Y,40.7641423,-74.1754081
+497,PAST SALE,April-1-2021,Multi-Family (2-4 Unit),228 3rd St,Newark,NJ,7107,410000.0,7.0,3.0,Newark,,2500.0,,125.0,,,Sold,,NJMLS,21000346,Y,Y,40.7554042,-74.1859912
+498,PAST SALE,February-23-2021,Townhouse,5620 Angora Ter,Philadelphia,PA,19143,97000.0,3.0,1.5,COBBS CREEK,992.0,1120.0,1925.0,162.0,98.0,,Sold,,BRIGHT MLS,PAPH975626,Y,Y,39.9459122,-75.235928
+499,PAST SALE,October-16-2018,Single Family Residential,160 Mill St,Belleville,NJ,7109,146242.0,3.0,2.0,Belleville,,3001.0,,1023.0,,,Sold,,NJMLS,1805584,Y,Y,40.7829222,-74.1573604
+500,MLS Listing,2025,Multi-Family (2-4 Unit),481 S 11th St,Newark,NJ,7103,392000.0,7.0,4.0,Newark,,2500.0,,72.0,,,Active,,NJMLS,21020337,Y,Y,40.7368767,-74.2031893
+501,PAST SALE,May-17-2021,Single Family Residential,297 Dr Martin Luther Kng Blvd,Newark,NJ,7102,310000.0,3.0,1.0,Newark,,1708.0,,79.0,,,Sold,,NJMLS,20038692,Y,Y,40.7440749,-74.175761
+503,PAST SALE,March-30-2021,Single Family Residential,4228 Gunther Ave,BRONX,NY,10466,405000.0,3.0,2.5,BRONX,1208.0,2378.0,1920.0,127.0,335.0,,Sold,,OneKey,H6069518,Y,Y,40.8949321,-73.8499175
+507,PAST SALE,February-17-2021,Multi-Family (2-4 Unit),243 Summer Ave,Newark,NJ,7104,321000.0,5.0,3.0,Newark,,2409.0,,168.0,,,Sold,,NJMLS,20045650,Y,Y,40.7600087,-74.1709014
+509,PAST SALE,June-17-2021,Multi-Family (2-4 Unit),121 KEARNEY Ave,JERSEY CITY,NJ,7305,316000.0,4.0,2.0,Jersey City (Greenville),,,,48.0,,,Sold,,HCMLS,202028181,Y,Y,40.712065,-74.081091
+510,MLS Listing,2025,Single Family Residential,1439 45th St,North Bergen,NJ,7047,349000.0,3.0,2.0,North Bergen,,2901.0,,48.0,,,Contingent,,NJMLS,21024441,Y,Y,40.7827541,-74.0299549
+511,PAST SALE,June-11-2021,Single Family Residential,282 ARMSTRONG Ave,JERSEY CITY,NJ,7305,375000.0,4.0,1.0,Jersey City (West Bergen),1633.0,,,54.0,230.0,,Sold,,HCMLS,202028714,Y,Y,40.705819,-74.091086
+513,PAST SALE,April-14-2021,Condo/Co-op,4306 KENNEDY Blvd #9,Union City,NJ,7087,146000.0,2.0,1.0,Union City,561.0,,,112.0,260.0,228.0,Sold,,HCMLS,202029287,Y,Y,40.7792715,-74.0262712
+515,PAST SALE,February-26-2021,Condo/Co-op,527-29 34th St Unit C1,Union City,NJ,7087,170000.0,2.0,1.0,Union City,,,,159.0,,,Sold,,NJMLS,20051854,Y,Y,40.7735178,-74.0297895
+517,PAST SALE,April-6-2021,Condo/Co-op,376 Littleton Ave,Newark,NJ,7103,225000.0,3.0,1.5,Newark,,,,120.0,,,Sold,,NJMLS,21005954,Y,Y,40.7337012,-74.1980656
+520,PAST SALE,July-16-2021,Single Family Residential,172 16th Ave,Newark,NJ,7103,185000.0,5.0,2.0,Newark,,,,19.0,,,Sold,,NJMLS,20037577,Y,Y,40.7356394,-74.2028006
+521,PAST SALE,January-25-2021,Condo/Co-op,1866 KENNEDY Blvd Unit B2,JERSEY CITY,NJ,7305,140000.0,2.0,1.0,Jersey City (Greenville),988.0,,,191.0,142.0,390.0,Sold,,HCMLS,210000418,Y,Y,40.7034776,-74.09004
+522,PAST SALE,April-30-2021,Condo/Co-op,2672 KENNEDY Blvd #104,JERSEY CITY,NJ,7306,189000.0,2.0,1.0,Jersey City (Journal Square),608.0,,,96.0,311.0,452.0,Sold,,HCMLS,202024831,Y,Y,40.7276508,-74.0702709
+523,PAST SALE,April-17-2000,Condo/Co-op,437 Palisade Ave Unit 5F,Yonkers,NY,10703,275000.0,2.0,1.5,437 Palisade Ave Condomi,1100.0,,1973.0,110.0,250.0,509.0,Pending,,OneKey,H6106390,Y,Y,40.9494293,-73.8908103
+525,MLS Listing,2025,Condo/Co-op,2323 Loring Pl N #8,BRONX,NY,10468,212000.0,2.0,1.0,2323 Loring Pl N Housing,960.0,,1912.0,96.0,221.0,,Active,,OneKey,3308372,Y,Y,40.8624599,-73.9081959
+526,PAST SALE,March-22-2021,Townhouse,5110 Reno St,Philadelphia,PA,19139,75000.0,2.0,1.0,MILL CREEK,896.0,640.0,1920.0,135.0,84.0,,Sold,,BRIGHT MLS,PAPH965986,Y,Y,39.9663388,-75.2228084
+527,PAST SALE,March-2-2021,Townhouse,532 E Indiana Ave,Philadelphia,PA,19134,86500.0,3.0,1.0,KENSINGTON,1120.0,832.0,1920.0,155.0,77.0,,Sold,,BRIGHT MLS,PAPH931348,Y,Y,39.9941389,-75.120722
+528,MLS Listing,2025,Condo/Co-op,5612 Hudson Ave Unit 1A,West New York,NJ,7093,198995.0,3.0,1.0,West New York,674.0,,,154.0,295.0,,Contingent,,NJMLS,21007372,Y,Y,40.7846846,-74.0142917
+529,PAST SALE,March-8-2021,Condo/Co-op,6414 PARK Ave #11,West New York,NJ,7093,190000.0,2.0,1.0,West New York,,,,149.0,,312.0,Sold,,HCMLS,202021859,Y,Y,40.7892649,-74.0055317
+530,MLS Listing,2025,Single Family Residential,364 Bergen St,Newark City,NJ,07103-2202,219000.0,3.0,1.5,Newark City,,2613.0,2005.0,53.0,,,Active,,GSMLS,3719784,Y,Y,40.7322749,-74.1954962
+531,PAST SALE,January-28-2021,Townhouse,3056 N Swanson St,Philadelphia,PA,19134,50000.0,4.0,1.0,HARROWGATE,980.0,637.0,1920.0,188.0,51.0,,Sold,,BRIGHT MLS,PAPH974060,Y,Y,39.9964476,-75.1283937
+532,PAST SALE,February-4-2021,Townhouse,3237 Memphis St,Philadelphia,PA,19134,124900.0,2.0,1.0,PORT RICHMOND,741.0,969.0,1910.0,181.0,169.0,,Sold,,BRIGHT MLS,PAPH973628,Y,Y,39.9894119,-75.1055919
+533,PAST SALE,February-5-2021,Townhouse,3118 N 8th St,Philadelphia,PA,19133,65500.0,3.0,2.0,PHILA (NORTH),1088.0,822.0,1925.0,180.0,60.0,,Sold,,BRIGHT MLS,PAPH973890,Y,Y,39.9992498,-75.1438323
+534,MLS Listing,2025,Townhouse,2159 N Philip St,Philadelphia,PA,19122,160000.0,3.0,2.0,FISHTOWN,888.0,585.0,1920.0,335.0,180.0,,Active,,BRIGHT MLS,PAPH932094,Y,Y,39.9834979,-75.1370297
+536,MLS Listing,2025,Townhouse,5838 Pemberton St,Philadelphia,PA,19143,264995.0,3.0,2.0,COBBS CREEK,1062.0,938.0,1925.0,42.0,250.0,,Active,,BRIGHT MLS,PAPH2003508,Y,Y,39.951399,-75.240077
+537,PAST SALE,February-25-2021,Townhouse,3348 N Lee St,Philadelphia,PA,19134,50000.0,3.0,1.0,Philadelphia,1065.0,907.0,1935.0,160.0,47.0,,Sold,,BRIGHT MLS,PAPH972748,Y,Y,40.001232,-75.1282341
+538,PAST SALE,May-14-2021,Townhouse,624 E Lippincott St,Philadelphia,PA,19134,67000.0,3.0,1.0,KENSINGTON,1064.0,713.0,1920.0,82.0,63.0,,Sold,,BRIGHT MLS,PAPH967018,Y,Y,39.996218,-75.118817
+539,PAST SALE,July-19-2021,Townhouse,4826 Hawthorne St,Philadelphia,PA,19124,85000.0,2.0,1.0,FRANKFORD,944.0,2590.0,1925.0,16.0,90.0,,Sold,,BRIGHT MLS,PAPH1027748,Y,Y,40.01672,-75.0788615
+540,PAST SALE,2025,Townhouse,3306 Kip St,Philadelphia,PA,19134,65000.0,3.0,1.0,,1061.0,862.0,1935.0,,61.0,,,,,,Y,Y,40.0000648,-75.1259079
+541,PAST SALE,February-12-2021,Townhouse,3574 Jasper St,Philadelphia,PA,19134,79700.0,3.0,1.5,HARROWGATE,1089.0,853.0,1920.0,173.0,73.0,,Sold,,BRIGHT MLS,PAPH940582,Y,Y,39.9999696,-75.1033707
+542,PAST SALE,January-22-2021,Townhouse,4208 N Fairhill St,Philadelphia,PA,19140,80000.0,3.0,1.0,Philadelphia,1050.0,874.0,1940.0,194.0,76.0,,Sold,,BRIGHT MLS,PAPH968216,Y,Y,40.0155464,-75.1366263
+543,PAST SALE,2025,Townhouse,3054 Coral St,Philadelphia,PA,19134,71000.0,2.0,1.0,PORT RICHMOND,800.0,714.0,1910.0,630.0,89.0,,Pending,,BRIGHT MLS,PAPH849888,Y,Y,39.9910329,-75.1131434
+544,PAST SALE,March-17-2004,Townhouse,2914 Rutledge St,Philadelphia,PA,19134,8000.0,2.0,1.0,KENSINGTON,,546.0,1934.0,6349.0,,,Sold,,BRIGHT MLS,PAPH181522,Y,Y,39.9935948,-75.1245438
+545,PAST SALE,2025,Townhouse,2647 N Reese St,Philadelphia,PA,19133,,3.0,1.0,,990.0,826.0,1920.0,,,,,,,,Y,Y,39.9914627,-75.1408101
+546,PAST SALE,2025,Townhouse,3067 Potter St,Philadelphia,PA,19134,60500.0,3.0,1.0,,840.0,630.0,1920.0,,72.0,,,,,,Y,Y,39.994796,-75.117242
+547,PAST SALE,May-13-2021,Townhouse,3131 Weymouth St,Philadelphia,PA,19134,39900.0,3.0,1.0,KENSINGTON,1120.0,684.0,1920.0,83.0,36.0,,Sold,,BRIGHT MLS,PAPH949332,Y,Y,39.9959926,-75.1169678
+548,PAST SALE,July-29-2021,Townhouse,740 E Willard St,Philadelphia,PA,19134,90000.0,3.0,1.0,KENSINGTON,1110.0,750.0,1920.0,6.0,81.0,,Sold,,BRIGHT MLS,PAPH1019668,Y,Y,39.9979299,-75.115964
+549,PAST SALE,February-9-2021,Townhouse,1861 E Wishart St,Philadelphia,PA,19134,53250.0,2.0,1.0,KENSINGTON,980.0,735.0,1920.0,176.0,54.0,,Sold,,BRIGHT MLS,PAPH965936,Y,Y,39.9950464,-75.1128852
+550,PAST SALE,January-6-2021,Townhouse,113 E Lippincott St,Philadelphia,PA,19134,53000.0,3.0,1.5,KENSINGTON,1120.0,686.0,1920.0,210.0,47.0,,Sold,,BRIGHT MLS,PAPH967104,Y,Y,39.9976941,-75.1289739
+551,PAST SALE,2025,Townhouse,229 E Westmoreland St,Philadelphia,PA,19134,,3.0,1.0,,1209.0,1085.0,1935.0,,,,,,,,Y,Y,39.999916,-75.1260549
+552,PAST SALE,March-12-2021,Townhouse,4013 N 8th St,Philadelphia,PA,19140,70000.0,4.0,2.0,HUNTING PARK,1260.0,1110.0,1920.0,145.0,56.0,,Sold,,BRIGHT MLS,PAPH942834,Y,Y,40.0129572,-75.1404735
+553,PAST SALE,2025,Townhouse,3662 N Marvine St,Philadelphia,PA,19140,,4.0,1.0,,1534.0,1533.0,1925.0,,,,,,,,Y,Y,40.0084609,-75.146963
+554,PAST SALE,March-22-2021,Townhouse,5141 Reno St,Philadelphia,PA,19139,75000.0,2.0,1.0,MILL CREEK,896.0,630.0,1920.0,135.0,84.0,,Sold,,BRIGHT MLS,PAPH965328,Y,Y,39.966464,-75.223585
+556,PAST SALE,December-31-2020,Townhouse,729 E Thayer St,Philadelphia,PA,19134,65000.0,3.0,1.0,Philadelphia,1302.0,1018.0,1920.0,216.0,50.0,,Sold,,BRIGHT MLS,PAPH923936,Y,Y,39.9996604,-75.1159007
+559,MLS Listing,2025,Townhouse,1521 Carswell St,Baltimore,MD,21218,170000.0,4.0,2.5,Ward 9,,,1920.0,20.0,,,Active,August-7-2021 03:00 PM,BRIGHT MLS,MDBA553078,Y,Y,39.3229363,-76.5963054
+560,PAST SALE,April-14-2021,Townhouse,1900 Homewood Ave,Baltimore,MD,21218,73000.0,6.0,3.0,Ward 9,,,1920.0,112.0,,,Sold,,BRIGHT MLS,MDBA520720,Y,Y,39.3120016,-76.6073896
+561,PAST SALE,January-14-2021,Multi-Family (2-4 Unit),354 Bergen St,Newark,NJ,7103,380000.0,6.0,3.0,Newark,,2500.0,,202.0,,,Sold,,NJMLS,20045620,Y,Y,40.7326243,-74.1954389
+563,PAST SALE,June-4-2021,Townhouse,3738 N 8th St,Philadelphia,PA,19140,45000.0,3.0,1.0,Philadelphia,1120.0,736.0,1935.0,61.0,40.0,,Sold,,BRIGHT MLS,PAPH942554,Y,Y,40.0091009,-75.1417002
+565,MLS Listing,2025,Townhouse,445 W Indiana Ave,Philadelphia,PA,19133,99900.0,4.0,2.0,KENSINGTON,1196.0,756.0,1920.0,44.0,84.0,,Active,,BRIGHT MLS,PAPH2000820,Y,Y,39.9967406,-75.1389637
+566,PAST SALE,February-25-2021,Multi-Family (2-4 Unit),345 FULTON Ave,JERSEY CITY,NJ,7305,510000.0,7.0,3.0,Jersey City (West Bergen),,,,160.0,,,Sold,,HCMLS,202024445,Y,Y,40.7081741,-74.0925892
+569,PAST SALE,May-14-2021,Multi-Family (2-4 Unit),184 CARTERET Ave,JERSEY CITY,NJ,7305,445000.0,7.0,3.5,Jersey City (Greenville),,,,82.0,,,Sold,,HCMLS,210001215,Y,Y,40.7098005,-74.075966
+570,MLS Listing,2025,Single Family Residential,,Brooklyn,NY,11207,275995.0,3.0,1.5,Brooklyn,,1800.0,1990.0,581.0,,,Active,,OneKey,3188454,Y,Y,40.670777,-73.892997
+572,PAST SALE,2025,Townhouse,1937 N Darien St,Philadelphia,PA,19122,165500.0,3.0,1.0,,900.0,555.0,1920.0,,184.0,,,,,,Y,Y,39.9813293,-75.1479596
+573,PAST SALE,December-30-2020,Multi-Family (2-4 Unit),240 GRANT Ave,JERSEY CITY,NJ,7305,535000.0,7.0,3.0,Jersey City (West Bergen),,,,217.0,,,Sold,,HCMLS,202023975,Y,Y,40.712895,-74.086521
+574,MLS Listing,2025,Multi-Family (2-4 Unit),113 S 7th St,Newark,NJ,7107,486000.0,7.0,3.0,Newark,,3001.0,,7.0,,,Active,,NJMLS,21030707,Y,Y,40.7452241,-74.1954848
+575,PAST SALE,May-19-2021,Townhouse,3046 N 9th St,Philadelphia,PA,19133,60000.0,4.0,1.0,Philadelphia,1305.0,994.0,1925.0,77.0,46.0,,Sold,,BRIGHT MLS,PAPH943962,Y,Y,39.9984858,-75.1450409
+577,PAST SALE,December-28-2020,Multi-Family (2-4 Unit),548 61ST St,West New York,NJ,7093,450000.0,6.0,2.0,West New York,,,,219.0,,,Sold,,HCMLS,202023656,Y,Y,40.7907407,-74.0170904
+579,PAST SALE,2025,Townhouse,41 N Ithan St,Philadelphia,PA,19139,50000.0,3.0,1.0,,1152.0,960.0,1925.0,,43.0,,,,,,Y,Y,39.9620436,-75.2331957
+581,PAST SALE,April-9-2021,Multi-Family (2-4 Unit),154 BIDWELL Ave,JERSEY CITY,NJ,07305-3325,400000.0,6.0,2.0,Jersey City (Greenville),,,,117.0,,,Sold,,HCMLS,202023292,Y,Y,40.705914,-74.082261
+582,PAST SALE,February-24-2021,Townhouse,2003 Westwood Ave,Baltimore,MD,21217,23560.0,3.0,1.0,Ward 15,,1400.0,1915.0,161.0,,,Sold,,BRIGHT MLS,MDBA527752,Y,Y,39.3085429,-76.6503522
+583,PAST SALE,February-12-2021,Single Family Residential,51 BOYD Ave,JERSEY CITY,NJ,7304,358000.0,3.0,2.0,Jersey City (West Bergen),,,,173.0,,,Sold,,HCMLS,202019821,Y,Y,40.716132,-74.082512
+585,PAST SALE,March-19-2021,Multi-Family (2-4 Unit),226 BARTHOLDI Ave,JERSEY CITY,NJ,7305,450000.0,5.0,2.0,Jersey City (West Bergen),,,,138.0,,,Sold,,HCMLS,202016692,Y,Y,40.6998814,-74.099211
+586,PAST SALE,January-19-2021,Townhouse,932 S Paxon St,Philadelphia,PA,19143,85000.0,3.0,1.0,KINGSESSING,1920.0,1080.0,1925.0,197.0,44.0,,Sold,,BRIGHT MLS,PAPH884236,Y,Y,39.94461,-75.222935
+587,PAST SALE,2025,Townhouse,5452 Spring St,Philadelphia,PA,19139,27750.0,2.0,1.0,,748.0,690.0,1920.0,,37.0,,,,,,Y,Y,39.9640379,-75.2295036
+588,PAST SALE,2025,Townhouse,2217 W Firth St,Philadelphia,PA,19132,51870.0,3.0,1.0,,890.0,754.0,1925.0,,58.0,,,,,,Y,Y,39.9932542,-75.1686859
+591,PAST SALE,December-31-2020,Multi-Family (2-4 Unit),420 JOHN St,East Newark,NJ,7029,415000.0,6.0,2.0,East Newark,,,,216.0,,,Sold,,HCMLS,202022377,Y,Y,40.7511551,-74.1604319
+593,PAST SALE,October-16-2020,Townhouse,2040 Moore St,Philadelphia,PA,19145,175000.0,3.0,1.0,POINT BREEZE,1048.0,910.0,1920.0,292.0,167.0,,Sold,,BRIGHT MLS,PAPH854222,Y,Y,39.9292771,-75.1796066
+594,PAST SALE,November-27-2020,Townhouse,3624 Earp St,Philadelphia,PA,19146,130000.0,2.0,1.0,GRAYS FERRY,948.0,737.0,1923.0,250.0,137.0,,Sold,,BRIGHT MLS,PAPH928080,Y,Y,39.93814,-75.20273
+595,PAST SALE,March-26-2021,Townhouse,2414 S Reese St,Philadelphia,PA,19148,161150.0,3.0,1.0,Philadelphia,1180.0,742.0,1920.0,131.0,137.0,,Sold,,BRIGHT MLS,PAPH927826,Y,Y,39.9184623,-75.1566016
+596,PAST SALE,January-6-2021,Single Family Residential,141 S 8TH St,Newark City,NJ,07107-1401,200000.0,5.0,1.5,Newark City,,2613.0,,210.0,,,Sold,,GSMLS,3664686,Y,Y,40.7454684,-74.196402
+597,PAST SALE,December-28-2020,Multi-Family (2-4 Unit),825 S 14th St,Newark,NJ,7108,400000.0,10.0,4.0,Newark,,2374.0,,219.0,,,Sold,,NJMLS,20041335,Y,Y,40.7258226,-74.2103433
+599,PAST SALE,April-7-2021,Multi-Family (2-4 Unit),61 WARNER Ave,JERSEY CITY,NJ,7305,394000.0,5.0,2.0,Jersey City (Greenville),,,,119.0,,,Sold,,HCMLS,202021679,Y,Y,40.6996789,-74.0887915
+601,PAST SALE,December-30-2020,Townhouse,1541 W Seltzer St,Philadelphia,PA,19132,55000.0,3.0,1.0,STANTON,970.0,672.0,1939.0,217.0,57.0,,Sold,,BRIGHT MLS,PAPH902276,Y,Y,39.9952185,-75.157126
+602,PAST SALE,July-28-2021,Townhouse,2509 N Marshall St,Philadelphia,PA,19133,120000.0,3.0,1.0,OLD KENSINGTON,1092.0,1139.0,1925.0,7.0,110.0,,Sold,,BRIGHT MLS,PAPH931698,Y,Y,39.9897326,-75.1433534
+603,PAST SALE,May-3-2021,Single Family Residential,30 TAYLOR ST Newark NJ,Newark City,NJ,07104-2618,251000.0,5.0,3.0,Newark City,,,1917.0,93.0,,,Sold,,GSMLS,3677750,Y,Y,40.7584062,-74.171039
+605,PAST SALE,2025,Single Family Residential,5042 Larchwood Ave,Philadelphia,PA,19143,,4.0,1.0,,1972.0,2145.0,1925.0,,,,,,,,Y,Y,39.9514937,-75.224216
+606,PAST SALE,2025,Townhouse,3059 Martha St,Philadelphia,PA,19134,13000.0,3.0,1.0,,988.0,1018.0,1910.0,,13.0,,,,,,Y,Y,39.989701,-75.1121912
+610,PAST SALE,February-8-2021,Multi-Family (2-4 Unit),51 WALES Ave,JERSEY CITY,NJ,7306,530000.0,5.0,3.0,Jersey City (Journal Square),,,,177.0,,,Sold,,HCMLS,202019648,Y,Y,40.7351506,-74.073855
+611,PAST SALE,April-28-2021,Multi-Family (2-4 Unit),29 Victoria Ave,Newark,NJ,7104,320000.0,5.0,3.0,Newark,,1882.0,,98.0,,,Sold,,NJMLS,20036259,Y,Y,40.753431,-74.175909
+613,PAST SALE,February-23-2021,Townhouse,5132 Locust St,Philadelphia,PA,19139,275000.0,4.0,2.5,WEST PHILADELPHIA,1650.0,1496.0,1925.0,162.0,167.0,,Sold,,BRIGHT MLS,PAPH915028,Y,Y,39.955521,-75.2249909
+614,PAST SALE,2025,Condo/Co-op,1553 S 28th St,Philadelphia,PA,19146,120000.0,4.0,2.0,,1783.0,,1925.0,,67.0,,,,,,Y,Y,39.9335025,-75.1910964
+615,MLS Listing,2025,Townhouse,5405 Westminster Ave,Philadelphia,PA,19131,149700.0,3.0,2.0,HADDINGTON,1140.0,1680.0,1925.0,576.0,131.0,,Active,,BRIGHT MLS,PAPH858990,Y,Y,39.9679485,-75.228478
+617,PAST SALE,June-3-2021,Townhouse,1030 S Ithan St,Philadelphia,PA,19143,95000.0,3.0,1.0,COBBS CREEK,992.0,896.0,1925.0,62.0,96.0,,Sold,,BRIGHT MLS,PAPH982698,Y,Y,39.9447071,-75.2350166
+618,PAST SALE,February-15-2021,Townhouse,5929 Larchwood Ave,Philadelphia,PA,19143,125000.0,4.0,1.0,COBBS CREEK,1358.0,1232.0,1925.0,170.0,92.0,,Sold,,BRIGHT MLS,PAPH889960,Y,Y,39.954038,-75.241327
+620,PAST SALE,March-23-2021,Townhouse,5729 Delancey St,Philadelphia,PA,19143,225000.0,3.0,2.5,WEST PHILADELPHIA,1688.0,953.0,1925.0,134.0,133.0,,Sold,,BRIGHT MLS,PAPH972298,Y,Y,39.955538,-75.236989
+621,PAST SALE,June-22-2021,Multi-Family (2-4 Unit),314 Dixwell Ave,New Haven,CT,6511,250000.0,6.0,3.0,Newhallville,2401.0,3920.0,1900.0,43.0,104.0,,Sold,,Smart MLS,170330686,Y,Y,41.3217393,-72.9349222
+622,PAST SALE,2025,Townhouse,521 S 57th St,Philadelphia,PA,19143,,3.0,1.0,,1202.0,1072.0,1925.0,,,,,,,,Y,Y,39.9525603,-75.2364432
+623,MLS Listing,2025,Townhouse,5454 Warrington Ave,Philadelphia,PA,19143,115000.0,3.0,1.0,KINGSESSING,1074.0,1098.0,1925.0,386.0,107.0,,Contingent,,BRIGHT MLS,PAPH889958,Y,Y,39.9408584,-75.2265408
+624,PAST SALE,July-26-2021,Townhouse,1027 S 52nd St,Philadelphia,PA,19143,179900.0,3.0,1.0,WEST PHILADELPHIA,1300.0,1440.0,1925.0,9.0,138.0,,Sold,,BRIGHT MLS,PAPH2003528,Y,Y,39.9445502,-75.2232132
+625,MLS Listing,2025,Multi-Family (2-4 Unit),412 Cleveland Ave,Harrison,NJ,7029,449000.0,4.0,3.0,Harrison,,2500.0,,201.0,,,Contingent,,NJMLS,21001755,Y,Y,40.7475217,-74.1557301
+626,PAST SALE,January-22-2021,Multi-Family (2-4 Unit),706 AVENUE E,Bayonne,NJ,7002,469000.0,6.0,2.0,Bayonne,,,,194.0,,,Sold,,HCMLS,202020641,Y,Y,40.6781278,-74.1025578
+627,PAST SALE,June-18-2021,Townhouse,1519-21 N Conestoga St,Philadelphia,PA,19131,70000.0,4.0,1.0,CARROLL PARK,2154.0,2065.0,1925.0,47.0,32.0,,Sold,,BRIGHT MLS,PAPH1016492,Y,Y,39.9761306,-75.2305748
+629,PAST SALE,April-23-2021,Townhouse,1108 S Alder St,Philadelphia,PA,19147,305000.0,2.0,1.0,PASSYUNK SQUARE,,538.0,1920.0,103.0,,,Sold,,BRIGHT MLS,PAPH910162,Y,Y,39.936545,-75.1607
+631,MLS Listing,2025,Townhouse,5303 Walnut St,Philadelphia,PA,19139,214000.0,4.0,2.0,WEST PHILADELPHIA,1600.0,1187.0,1925.0,346.0,134.0,,Active,,BRIGHT MLS,PAPH927604,Y,Y,39.9573872,-75.2276461
+635,MLS Listing,2025,Multi-Family (2-4 Unit),11 W 15TH St,Bayonne,NJ,7002,425000.0,5.0,2.0,Bayonne,,,,63.0,,,Active,,HCMLS,210013268,Y,Y,40.6585799,-74.1235716
+637,PAST SALE,December-31-2020,Multi-Family (2-4 Unit),6300 JACKSON St,West New York,NJ,7093,700000.0,5.0,4.5,West New York,,,,216.0,,,Sold,,HCMLS,202020618,Y,Y,40.7930607,-74.0165855
+638,PAST SALE,June-29-2021,Multi-Family (2-4 Unit),482 S 16th St,Newark,NJ,7103,335000.0,9.0,3.0,Newark,,2500.0,,36.0,,,Sold,,NJMLS,20033661,Y,Y,40.7392636,-74.2067205
+640,PAST SALE,January-28-2021,Single Family Residential,2808 CENTRAL Ave,Union City,NJ,7087,355000.0,3.0,1.5,Union City,850.0,,,188.0,418.0,,Sold,,HCMLS,202017461,Y,Y,40.7710354,-74.0321095
+643,PAST SALE,December-29-2020,Multi-Family (2-4 Unit),69-71 S 12th St,Newark,NJ,7107,575000.0,7.0,4.5,Newark,,3759.0,,218.0,,,Sold,,NJMLS,20032655,Y,Y,40.75215,-74.197185
+644,MLS Listing,2025,Single Family Residential,146 Union St,Jersey City,NJ,7304,365000.0,4.0,2.0,Jersey City,,1498.0,,687.0,,,Contingent,,NJMLS,1943268,Y,Y,40.7145044,-74.0761604
+645,PAST SALE,2025,Single Family Residential,112-11 204th St,Jamaica,NY,11412,220000.0,3.0,2.5,Jamaica,,1782.0,1935.0,386.0,,,Pending,,OneKey,3232742,Y,Y,40.7033186,-73.7519538
+646,PAST SALE,June-11-2021,Townhouse,2237 Madison Ave,Baltimore,MD,21217,208000.0,3.0,2.0,Ward 13,2412.0,1742.0,1907.0,54.0,86.0,,Sold,,BRIGHT MLS,MDBA547462,Y,Y,39.3112185,-76.6362059
+648,PAST SALE,March-24-2021,Single Family Residential,3303 Bloomingdale Rd,Baltimore,MD,21216,183000.0,10.0,6.0,Ward 15,5340.0,15042.0,1920.0,133.0,34.0,,Sold,,BRIGHT MLS,MDBA516798,Y,Y,39.3105843,-76.6728881
+649,PAST SALE,2025,Townhouse,250 S Cecil St,Philadelphia,PA,19139,,3.0,1.0,,1170.0,900.0,1925.0,,,,,,,,Y,Y,39.957009,-75.237226
+652,PAST SALE,2025,Condo/Co-op,1224 N 28th St,Philadelphia,PA,19121,,4.0,2.0,,1872.0,,1915.0,,,,,,,,Y,Y,39.9751576,-75.1818864
+653,PAST SALE,May-12-2021,Single Family Residential,1327 S 31st St,Philadelphia,PA,19146,350000.0,3.0,2.5,GRAYS FERRY,1970.0,714.0,2020.0,84.0,178.0,,Sold,,BRIGHT MLS,PAPH987636,Y,Y,39.9370603,-75.1951463
+655,MLS Listing,2025,Single Family Residential,1617 81st St,North Bergen,NJ,7047,300000.0,5.0,2.0,North Bergen,,2500.0,,125.0,,,Contingent,,NJMLS,21011640,Y,Y,40.8068471,-74.0156215
+656,PAST SALE,April-2-2021,Multi-Family (2-4 Unit),1375 E 99th St,Brooklyn,NY,11236,825000.0,6.0,4.0,Brooklyn,2162.0,1980.0,2002.0,377.0,382.0,,Pending,,OneKey,3236000,Y,Y,40.6368619,-73.8900753
+657,PAST SALE,March-25-2021,Single Family Residential,422 W 16th St,San Bernardino,CA,92405,295000.0,5.0,2.5,274 - San Bernardino,2340.0,7500.0,1964.0,132.0,126.0,,Sold,,CRMLS,SB20121053,Y,Y,34.1290262,-117.2924565
+662,PAST SALE,September-1-2020,Multi-Family (2-4 Unit),205 THORNE St,JERSEY CITY,NJ,7307,475000.0,4.0,3.0,Jersey City (Heights),,,,337.0,,,Sold,,HCMLS,202015131,Y,Y,40.7521462,-74.0571167
+664,PAST SALE,2025,Condo/Co-op,607 Bergenline Ave #2,Union City,NJ,7087,200000.0,2.0,,,752.0,,2005.0,,266.0,,,,,,Y,Y,40.7563577,-74.0400671
+665,PAST SALE,May-25-2021,Condo/Co-op,150 Featherbed Ln Unit 2G,BRONX,NY,10452,244000.0,2.0,2.0,Washington Bridge View,950.0,,2009.0,71.0,257.0,864.0,Sold,,OneKey,3234420,Y,Y,40.8461353,-73.9207992
+667,PAST SALE,January-15-2021,Townhouse,1387 E 2 St,Brooklyn,NY,11230,,3.0,2.0,,,,,,,,Sold,,REBNY,RPLU-63220037145,Y,Y,40.615904,-73.9729637
+668,PAST SALE,December-28-2020,Single Family Residential,1556 E 36th St,Brooklyn,NY,11234,738000.0,3.0,2.5,Brooklyn,,2100.0,1935.0,219.0,,,Sold,,OneKey,3232019,Y,Y,40.6167306,-73.9395068
+669,PAST SALE,April-22-2021,Multi-Family (2-4 Unit),2067 E 34 St,Brooklyn,NY,11234,,2.0,2.25,Brooklyn,1800.0,1800.0,1935.0,104.0,,,Sold,,BNYMLS,440451,Y,Y,40.60768,-73.931144
